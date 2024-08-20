@@ -1,0 +1,11 @@
+[tool.poetry]
+package-mode = false
+
+[tool.poe.tasks.shell]
+help = "Run an interactive shell in the devcontainer"
+cmd = "docker run --rm -p 8080:8080 -u vscode -v $PWD:/home/app -w /home/app ghcr.io/cameronrutherford/quarto-ci:latest /bin/bash"
+
+[tool.poe.tasks.preview]
+help = "Run quarto render and quarto preview to show pages preview"
+cmd = "docker run --rm -p 8080:8080 -u vscode -v $PWD:/home/app -w /home/app ghcr.io/cameronrutherford/quarto-ci:latest quarto render && quarto preview"
+
