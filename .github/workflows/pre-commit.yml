@@ -2,6 +2,7 @@
 name: pre-commit autofix
 permissions:
   contents: write
+  workflows: write
 "on":
   pull_request:
   push:
