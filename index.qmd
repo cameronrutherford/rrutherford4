@@ -1,27 +1,34 @@
 ---
 title: "Cameron Rutherford"
-format:
-  html:
-    default: true
-    toc: true
-    toc-depth: 4
+about:
+  template: trestles
+  image: https://scholar.googleusercontent.com/citations?view_op=medium_photo&user=3GFqQGoAAAAJ&citpid=1
+  links:
+    - icon: github
+      href: https://github.com/cameronrutherford
+      text: GitHub
+    - icon: linkedin
+      href: https://www.linkedin.com/in/robert-c-rutherford/
+      text: LinkedIn
+    - icon: google
+      href: https://scholar.google.com/citations?user=3GFqQGoAAAAJ&hl=en&oi=sra
+      text: Google scholar
+    - icon: person-rolodex
+      href: https://cameronrutherford.quarto.pub/camerons-git-site/resume/resume.html
+      text: Website / CV
+
 ---
 
-# About Me
+## About Me
 
 I am an adjunct professor with the Computer and Information Science (CISC) Department at Fordham University.
 
 I also work for Pacific Northwest National Laboratory (PNNL, "The Lab") as my day job on the HPC team.
 
-You can see my CV on my personal website at:
-
-[https://cameronrutherford.quarto.pub/camerons-git-site/resume/resume.html](https://cameronrutherford.quarto.pub/camerons-git-site/resume/resume.html)
-
 My interests are in:
 
-- Mathematics
-- High Performance Computing (HPC)
-- Quantum Computing
+- Mathematics, High Performance Computing (HPC)
+- Quantum Computing, Scientific Software
 - DevOps, MLOps
 - Software packaging, Containerization
 
@@ -34,8 +41,3 @@ My interests are in:
 ## Office hours
 
 - TBD
-
-## Other links
-
-- [GitHub](https://github.com/cameronrutherford)
-- [Google Scholar](https://scholar.google.com/citations?user=3GFqQGoAAAAJ&hl=en&oi=sra)

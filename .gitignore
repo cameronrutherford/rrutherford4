@@ -1,2 +1,3 @@
 /.quarto/
-docs/*
+public_html/*
+site_libs/*

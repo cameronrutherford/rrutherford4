@@ -1,0 +1,20 @@
+---
+title: "Resources"
+format:
+  html:
+    default: true
+    toc: true
+    toc-depth: 4
+---
+
+This page has links to both previous semester contents, and other material from other courses/sources.
+While none of these will be explicitly necessary to complete the course, you should consolt them as needed.
+
+## Tutorials
+
+- [CIS Fordham tutorials](https://fordhamcis.github.io/CISTutorials/)
+  - Basics from CS1/CS2
+  - **REQUIRED:** Includes [AutoGrader submission help](https://fordhamcis.github.io/CISTutorials/submitToAutograder/)
+
+
+To be determined how much content will live here compared to google / blackboard.

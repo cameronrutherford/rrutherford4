@@ -1,0 +1,111 @@
+---
+title: "CISC2200 - Fall '24"
+format:
+  html:
+    default: true
+    toc: true
+    toc-depth: 4
+---
+
+# Syllabus
+
+## Course Description
+
+This class studies abstract data types (their specification, application and implementation) including:
+
+- list
+- stack
+- queue
+- tree
+- graph
+
+An emphasis on object oriented engineering principles such as encapsulation, inheritance and polymorphism.
+Problem solving using recursion, analysis and comparison of sorting/search algorithms are also studied.
+The course is taught in C++.
+
+To be determined how much content will live here compared to google / blackboard / github.
+
+## Topics
+
+- C++ and OO concepts review:
+  - modularization
+  - encapsulation
+  - inheritance and polymorphism
+  - pointers and dynamic variables
+  - template class/function
+- Abstract data type introduction: unsorted list
+- Sorted list, stack, queue
+- Advanced topics on list
+- Recursion
+- Priority queue, heap
+- Tree, graph
+
+## Useful links
+
+- [Semester GitHub](https://github.com/CISC2200-Fall-24-Fordham) where coursework will be hosted
+- [Blackboard](https://fordham.blackboard.com/ultra/courses/_6188150_1/outline) for our section
+- From the sidebar:
+  - [Resources](./resources.qmd) for other useful Data Structures information
+  - [Schedule](./schedule.qmd) for the course
+
+## Instruction
+
+Lecture: Monday/Wednesday 1-2:15pm, TBD
+
+See [my rrutherford4 homepage](../../index.qmd) for office hours and contact information.
+
+## Discussion / Q&A
+
+Unless another tool is decided on, we will host discussions on Blackboard as needed.
+
+## Attendance
+
+Attendance of lecture is mandatory.
+
+## Expectation
+
+Students are expected to spend five to eight hours (not including the lecture) each week in the assigned reading, homework and lab projects. Students are expected to read the assigned chapter of the textbook before the class.
+
+## Assignment
+
+Submissions turned in late will be penalized, and no submission is accepted one week after its due date. You can write to the instructor to ask for an extension of up to one week for reasons such as illness, heavy workload or other reasons. The maximum number of extensions per person is three. It's the student's responsibility to notify the instructor if there is any difficult in submitting programming assignment on line right away by email, and follow up with the instructor on next class.
+
+## Academic Integrity
+
+You should only hand in your own work for assignments (written or programming).
+Copying solutions from others, or from the Internet will be penalized as violation of academic integrity.
+Equally important, you should not let other students copy your solutions to assignments.
+Please review the [Academic Integrity Policy of Fordham](https://www.fordham.edu/resources/policies/academic-integrity-policy/standards-of-academic-integrity/)
+
+## Artificial Intelligence
+
+Review the [Fordham AI](https://fordham.edu/ai) for information about usage of AI.
+
+We will be going with the "Limited AI approach":
+
+> Limited usage of generative AI tools may be allowed for specific assignments in this
+course, enabling exploration of ideas, complex data analysis, and creative solution
+development, when explicitly permitted by the instructor. When using these tools, it is
+mandatory to clearly indicate the sections of your work that were generated using them
+for proper attribution and transparency, and indicate the prompts and software
+versions that were used. It is critical to adhere to ethical standards by refraining from
+activities like plagiarism or creating misleading content. Additional guidelines or
+restrictions will be provided for specific assignments.
+
+::: {.callout-warning}
+Your quizzes and exams will be pen and paper, so keep this in mind throughout the course.
+:::
+
+## Grading Criteria
+
+Your grade will regularly be updated in Blackboard based on the following rubric:
+
+Final grade is based on the weighted sum of the following course works, **with the exception that if one fails the final exam, then one fails the class.**
+
+| Component         | Weight |
+|-------------------|--------|
+| Labs and Projects | 35%    |
+| Quizzes (5-6)     | 10%    |
+| Participation     | 5%     |
+| Midterm           | 25%    |
+| Final Exam        | 25%    |

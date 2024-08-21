@@ -27,18 +27,19 @@ website:
       - text: "Classes"
         menu:
           - text: "CISC2200 - Fall 24"
-            file: class/cisc2200-fall-24.qmd
-      - text: "How Tos"
+            href: class/cisc2200-fall24/index.qmd
+      - text: "How To Guides"
         menu:
           - howto/vscode.qmd
           - howto/docker.qmd
       - text: "Site Dev Guide"
         menu:
           - about.qmd
-    tools:
-      - icon: github
-        href: https://github.com/cameronrutherford
-        text: Quarto GitHub
-      - icon: linkedin
-        href: https://www.linkedin.com/in/robert-c-rutherford/
-        text: LinkedIn
+
+  sidebar:
+    - id: cisc2200-fall24
+      title: "CISC2200 - Fall '24"
+      style: "floating"
+      collapse-level: 1
+      align: left
+      contents: class/cisc2200-fall24
