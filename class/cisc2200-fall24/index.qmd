@@ -45,8 +45,8 @@ To be determined how much content will live here compared to google / blackboard
 - [Semester GitHub](https://github.com/CISC2200-Fall-24-Fordham) where coursework will be hosted
 - [Blackboard](https://fordham.blackboard.com/ultra/courses/_6188150_1/outline) for our section
 - From the sidebar:
-  - [Resources](./resources.md) for other useful Data Structures information
-  - [Schedule](./schedule.md) for the course
+  - [Resources](./resources.qmd) for other useful Data Structures information
+  - [Schedule](./schedule.qmd) for the course
 
 ## Instruction
 
