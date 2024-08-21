@@ -33,4 +33,4 @@ jobs:
           sudo chmod 600 ../private.key
           echo "$SSH_KNOWN_HOSTS" > ~/.ssh/known_hosts
       - name: Deploy site
-        run: scp -r -o GlobalKnownHostsFile=~/.ssh/known_hosts docs rrutherford4@erdos.dsm.fordham.edu:~/public_html
+        run: scp -r -i $SSH_KEY_PATH -o GlobalKnownHostsFile=~/.ssh/known_hosts docs rrutherford4@erdos.dsm.fordham.edu:~/public_html
