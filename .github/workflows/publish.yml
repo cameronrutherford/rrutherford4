@@ -44,4 +44,5 @@ jobs:
           chmod o-w $HOME
           scp -v -r -i $SSH_KEY_PATH \
             -o GlobalKnownHostsFile=$SSH_KNOWN_HOSTS_PATH docs \
-            rrutherford4@erdos.dsm.fordham.edu:~/public_html
+            rrutherford4@erdos.dsm.fordham.edu:~/public_html || \
+          cat /var/log.auth.log
