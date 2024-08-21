@@ -7,10 +7,14 @@ format:
     toc-depth: 4
 ---
 
-# Class Homepage
+This page has links to both previous semester contents, and other material from other courses/sources.
+While none of these will be explicitly necessary to complete the course, you should consolt them as needed.
 
-This page should have all the links you need to survive this class.
+## Tutorials
 
-TODO
+- [CIS Fordham tutorials](https://fordhamcis.github.io/CISTutorials/)
+  - Basics from CS1/CS2
+  - **REQUIRED:** Includes [AutoGrader submission help](https://fordhamcis.github.io/CISTutorials/submitToAutograder/)
+
 
 To be determined how much content will live here compared to google / blackboard.
