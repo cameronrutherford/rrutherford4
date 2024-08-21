@@ -30,14 +30,15 @@ jobs:
           mkdir -p ~/.ssh
           echo "$SSH_PRIVATE_KEY" > ../private.key
           sudo chmod 600 ../private.key
-          echo "$SSH_KNOWN_HOSTS" > ~/.ssh/known_hosts
+          echo "$SSH_KNOWN_HOSTS" > ../known_hosts
       - name: Deploy site
         env:
           SSH_KEY_PATH: ${{ github.workspace }}/../private.key
+          SSH_KNOWN_HOSTS_PATH: ${{ github.workspace }}/../known_hosts
         run: |
           # Only saw error with `-v` to scp
           # https://askubuntu.com/a/1210732
           chmod 666 /dev/tty
           scp -v -r -i $SSH_KEY_PATH \
-            -o GlobalKnownHostsFile=~/.ssh/known_hosts docs \
+            -o GlobalKnownHostsFile=$SSH_KNOWN_HOSTS_PATH docs \
             rrutherford4@erdos.dsm.fordham.edu:~/public_html
