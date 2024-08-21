@@ -19,9 +19,7 @@ jobs:
       - name: Check out repository
         uses: actions/checkout@v4
       - name: Quarto Render
-        run: |
-          quarto render
-          ls -al ./docs
+        run: quarto render
       - name: Setup SSH keys
         env:
           SSH_PRIVATE_KEY: ${{ secrets.SSH_PRIVATE_KEY }}
@@ -36,12 +34,6 @@ jobs:
           SSH_KEY_PATH: ${{ github.workspace }}/../private.key
           SSH_KNOWN_HOSTS_PATH: ${{ github.workspace }}/../known_hosts
         run: |
-          # Only saw error with `-v` to scp
-          # https://askubuntu.com/a/1210732
-          chmod 666 /dev/tty
-          # https://github.com/orgs/community/discussions/24913#discussioncomment-3245808
-          chmod g-w $HOME
-          chmod o-w $HOME
           scp -r \
             -i $SSH_KEY_PATH \
             -o GlobalKnownHostsFile=$SSH_KNOWN_HOSTS_PATH \
