@@ -2,9 +2,9 @@
 project:
   type: website
   title: "rrutherford4"
-  output-dir: docs
+  output-dir: public_html
   post-render:
-    - cp docs/README.md ./README.md
+    - cp public_html/README.md ./README.md
 
 format:
   html:

@@ -42,6 +42,7 @@ jobs:
           # https://github.com/orgs/community/discussions/24913#discussioncomment-3245808
           chmod g-w $HOME
           chmod o-w $HOME
-          scp -r -i $SSH_KEY_PATH \
-            -o GlobalKnownHostsFile=$SSH_KNOWN_HOSTS_PATH docs \
-            rrutherford4@erdos.dsm.fordham.edu:~/public_html
+          scp -r \
+            -i $SSH_KEY_PATH \
+            -o GlobalKnownHostsFile=$SSH_KNOWN_HOSTS_PATH \
+            public_html rrutherford4@erdos.dsm.fordham.edu:~
