@@ -5,6 +5,15 @@ package-mode = false
 help = "Run an interactive shell in the devcontainer"
 cmd = "docker run -it --rm -p 8080:8080 -u vscode -v $PWD:/home/app -w /home/app ghcr.io/cameronrutherford/quarto-ci:latest /bin/bash"
 
+[tool.poe.tasks.render]
+help = "Run quarto render"
+cmd = "docker run --rm -u vscode -v $PWD:/home/app -w /home/app ghcr.io/cameronrutherford/quarto-ci:latest quarto render"
+
 [tool.poe.tasks.preview]
-help = "Run quarto render and quarto preview to show pages preview"
-cmd = "docker run --rm -p 8080:8080 -u vscode -v $PWD:/home/app -w /home/app ghcr.io/cameronrutherford/quarto-ci:latest quarto render && quarto preview"
+help = "Run quarto preview to show pages preview"
+cmd = "docker run --rm -p 8080:8080 -u vscode -v $PWD:/home/app -w /home/app ghcr.io/cameronrutherford/quarto-ci:latest quarto preview --port 8080 --no-browser --host 0.0.0.0"
+
+[tool.poe.tasks.qrp]
+help = "Shortcut to runninng quarto render => quarto preview in the container"
+cmd = "poe render && poe preview"
+

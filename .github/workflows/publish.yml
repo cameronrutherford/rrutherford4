@@ -1,0 +1,22 @@
+name: Documentation Publish
+
+"on":
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+
+jobs:
+  publish-docs:
+    runs-on: ubuntu-latest
+    container:
+      image: ghcr.io/cameronrutherford/quarto-ci
+    permissions:
+      contents: write
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+      - name: Quarto Render (with resume profiles)
+        run: |
+          quarto render
+          ls -al ./docs

@@ -1,0 +1,42 @@
+---
+title: "Cameron Rutherford"
+format:
+  html:
+    default: true
+    toc: true
+    toc-depth: 4
+---
+
+# About Me
+
+I am an adjunct professor with the Computer and Information Science (CISC) Department at Fordham University.
+
+I also work for Pacific Northwest National Laboratory (PNNL, "The Lab") as my day job on the HPC team.
+
+You can see my CV on my personal website at:
+
+[https://cameronrutherford.quarto.pub/camerons-git-site/resume/resume.html](https://cameronrutherford.quarto.pub/camerons-git-site/resume/resume.html)
+
+My interests are in:
+
+- Mathematics
+- High Performance Computing (HPC)
+- Quantum Computing
+- DevOps, MLOps
+- Software packaging, Containerization
+
+## Contact
+
+- Office: TBD
+- Phone: +1 (509)-218-1818
+- Email: rrutherford4@fordham.edu
+
+## Office hours
+
+- TBD
+
+## Other links
+
+- [GitHub](https://github.com/cameronrutherford)
+- [Google Scholar](https://scholar.google.com/citations?user=3GFqQGoAAAAJ&hl=en&oi=sra)
+
