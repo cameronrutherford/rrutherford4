@@ -58,4 +58,3 @@ Links will lead on the page will lead to:
 Basic HomePage with all the links and material referenced and hosted.
 
 - [https://github.com/CISC2200-Fall-24-Fordham](https://github.com/CISC2200-Fall-24-Fordham)
-
