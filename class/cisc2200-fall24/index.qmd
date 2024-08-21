@@ -16,4 +16,3 @@ TODO
 To be determined how much content will live here compared to google / blackboard.
 
 - [https://github.com/CISC2200-Fall-24-Fordham](https://github.com/CISC2200-Fall-24-Fordham)
-

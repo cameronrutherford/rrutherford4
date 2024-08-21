@@ -46,4 +46,3 @@ Each class will have it's own set of pages including a homepage with:
 - Calendar invites
 - Code repositories
 - Blackboard and other resources
-
