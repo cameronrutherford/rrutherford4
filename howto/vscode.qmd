@@ -1,0 +1,14 @@
+---
+title: "VSCode"
+format:
+  html:
+    default: true
+    toc: true
+    toc-depth: 4
+---
+
+# VSCode Notes
+
+This will serve as your survival guide for VSCode if taking my classes.
+
+TODO

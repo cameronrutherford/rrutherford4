@@ -1,0 +1,44 @@
+---
+project:
+  type: website
+  title: "rrutherford4"
+  output-dir: public_html
+  post-render:
+    - cp public_html/README.md ./README.md
+
+format:
+  html:
+    theme:
+      light: flatly
+      dark: darkly
+    default: true
+    toc: true
+    toc-depth: 4
+
+website:
+  repo-url: https://github.com/cameronrutherford/rrutherford4
+  repo-actions: [edit, source, issue]
+  search:
+    type: overlay
+
+  navbar:
+    search: true
+    left:
+      - text: "Classes"
+        menu:
+          - text: "CISC2200 - Fall 24"
+            file: class/cisc2200-fall-24.qmd
+      - text: "How Tos"
+        menu:
+          - howto/vscode.qmd
+          - howto/docker.qmd
+      - text: "Site Dev Guide"
+        menu:
+          - about.qmd
+    tools:
+      - icon: github
+        href: https://github.com/cameronrutherford
+        text: Quarto GitHub
+      - icon: linkedin
+        href: https://www.linkedin.com/in/robert-c-rutherford/
+        text: LinkedIn

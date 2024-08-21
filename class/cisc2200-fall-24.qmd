@@ -1,0 +1,16 @@
+---
+title: "CISC2200 - Data Structures. Fall 2024"
+format:
+  html:
+    default: true
+    toc: true
+    toc-depth: 4
+---
+
+# Class Homepage
+
+This page should have all the links you need to survive this class.
+
+TODO
+
+To be determined how much content will live here compared to google / blackboard.
