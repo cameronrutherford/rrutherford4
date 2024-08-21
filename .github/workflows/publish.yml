@@ -26,7 +26,6 @@ jobs:
         env:
           SSH_PRIVATE_KEY: ${{ secrets.SSH_PRIVATE_KEY }}
           SSH_KNOWN_HOSTS: ${{ secrets.SSH_KNOWN_HOSTS }}
-          SSH_KEY_PATH: ${{ github.workspace }}/../private.key
         run: |
           mkdir -p ~/.ssh
           echo "$SSH_PRIVATE_KEY" > ../private.key
@@ -36,6 +35,6 @@ jobs:
         env:
           SSH_KEY_PATH: ${{ github.workspace }}/../private.key
         run: |
-          scp -r -i $SSH_KEY_PATH \
+          scp -v -r -i $SSH_KEY_PATH \
             -o GlobalKnownHostsFile=~/.ssh/known_hosts docs \
             rrutherford4@erdos.dsm.fordham.edu:~/public_html
