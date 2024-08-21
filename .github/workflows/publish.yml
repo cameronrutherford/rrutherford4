@@ -1,3 +1,4 @@
+---
 name: Documentation Publish
 
 "on":
@@ -22,7 +23,6 @@ jobs:
           quarto render
           ls -al ./docs
       - name: Setup SSH keys
-        shell: bash
         env:
           SSH_PRIVATE_KEY: ${{ secrets.SSH_PRIVATE_KEY }}
           SSH_KNOWN_HOSTS: ${{ secrets.SSH_KNOWN_HOSTS }}
@@ -33,4 +33,9 @@ jobs:
           sudo chmod 600 ../private.key
           echo "$SSH_KNOWN_HOSTS" > ~/.ssh/known_hosts
       - name: Deploy site
-        run: scp -r -i $SSH_KEY_PATH -o GlobalKnownHostsFile=~/.ssh/known_hosts docs rrutherford4@erdos.dsm.fordham.edu:~/public_html
+        env:
+          SSH_KEY_PATH: ${{ github.workspace }}/../private.key
+        run: |
+          scp -r -i $SSH_KEY_PATH \
+            -o GlobalKnownHostsFile=~/.ssh/known_hosts docs \
+            rrutherford4@erdos.dsm.fordham.edu:~/public_html
