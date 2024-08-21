@@ -13,6 +13,3 @@ cmd = "docker run --rm -u vscode -v $PWD:/home/app -w /home/app ghcr.io/cameronr
 help = "Run quarto preview to show pages preview"
 cmd = "docker run --rm -p 8080:8080 -u vscode -v $PWD:/home/app -w /home/app ghcr.io/cameronrutherford/quarto-ci:latest quarto preview --port 8080 --no-browser --host 0.0.0.0"
 
-[tool.poe.tasks.qrp]
-help = "Shortcut to runninng quarto render => quarto preview in the container"
-cmd = "poe render && poe preview"

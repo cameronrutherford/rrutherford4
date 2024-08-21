@@ -1,5 +1,5 @@
 ---
-title: "Class Schedule"
+title: "Schedule"
 format:
   html:
     default: true

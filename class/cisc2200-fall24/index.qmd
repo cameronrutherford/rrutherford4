@@ -1,5 +1,5 @@
 ---
-title: "CISC2200 - Data Structures. Fall 2024"
+title: "CISC2200 - Fall '24"
 format:
   html:
     default: true
@@ -7,10 +7,13 @@ format:
     toc-depth: 4
 ---
 
-# Class Homepage
+# Homepage
 
 This page should have all the links you need to survive this class.
 
 TODO
 
 To be determined how much content will live here compared to google / blackboard.
+
+- [https://github.com/CISC2200-Fall-24-Fordham](https://github.com/CISC2200-Fall-24-Fordham)
+

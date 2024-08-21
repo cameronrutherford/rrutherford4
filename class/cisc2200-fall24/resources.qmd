@@ -1,5 +1,5 @@
 ---
-title: "Class Resources"
+title: "Resources"
 format:
   html:
     default: true

@@ -22,16 +22,11 @@ While not sticking to it explicitly, I will try and follow
 Information related to how I maintain these docs with CI, and how you
 could DIY.
 
-- [This page](./about.qmd)
-
 ### How-Tos
 
 Since there will hopefully eventually be some shared information re-used
 across classes, I will store some general useful advice and How-Tos
 here.
-
-- [VSCode](./howto/vscode.qmd)
-- [Docker](./howto/docker.qmd)
 
 ### HomePage
 
@@ -45,16 +40,10 @@ Will include a RevealJS presentation!
 
 ### Classes (Tutorials)
 
-Links will lead on the page will lead to:
+Each class will have it’s own set of pages including a homepage with:
 
-- Lecture materials (on GitHub or otherwise)
+- Lecture materials (on GitHub/Google or otherwise)
 - Syllabus
 - Calendar invites
 - Code repositories
 - Blackboard and other resources
-
-#### Fall ’24 CISC 2200
-
-Basic HomePage with all the links and material referenced and hosted.
-
-- <https://github.com/CISC2200-Fall-24-Fordham>

@@ -45,11 +45,8 @@ website:
 
   sidebar:
     - id: cisc2200-fall24
-      title: "CISC2200 - Fall 24"
+      title: "CISC2200 - Fall '24"
       style: "floating"
       collapse-level: 1
       align: left
-      contents:
-        - class/cisc2200-fall24/index.qmd
-        - class/cisc2200-fall24/schedule.qmd
-        - class/cisc2200-fall24/resources.qmd
+      contents: class/cisc2200-fall24
