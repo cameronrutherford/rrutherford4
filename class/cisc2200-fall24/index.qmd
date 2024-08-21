@@ -11,7 +11,7 @@ format:
 
 ## Course Description
 
-This class studies abstract data types (their specification, applicaiton and implementation) including:
+This class studies abstract data types (their specification, application and implementation) including:
 
 - list
 - stack
@@ -20,7 +20,7 @@ This class studies abstract data types (their specification, applicaiton and imp
 - graph
 
 An emphasis on object oriented engineering principles such as encapsulation, inheritance and polymorphism.
-Problem solving using recursion, analysis and comparison of sorting/search algorithms are also studied. 
+Problem solving using recursion, analysis and comparison of sorting/search algorithms are also studied.
 The course is taught in C++.
 
 To be determined how much content will live here compared to google / blackboard / github.
@@ -56,7 +56,7 @@ See [my rrutherford4 homepage](../../index.qmd) for office hours and contact inf
 
 ## Discussion / Q&A
 
-Unless another tool is decided on, we will host discusions on Blackboard as needed.
+Unless another tool is decided on, we will host discussions on Blackboard as needed.
 
 ## Attendance
 
@@ -75,7 +75,7 @@ Submissions turned in late will be penalized, and no submission is accepted one 
 You should only hand in your own work for assignments (written or programming).
 Copying solutions from others, or from the Internet will be penalized as violation of academic integrity.
 Equally important, you should not let other students copy your solutions to assignments.
-Please review the [Academic Integrity Poicy of Fordham](https://www.fordham.edu/resources/policies/academic-integrity-policy/standards-of-academic-integrity/)
+Please review the [Academic Integrity Policy of Fordham](https://www.fordham.edu/resources/policies/academic-integrity-policy/standards-of-academic-integrity/)
 
 ## Artificial Intelligence
 
@@ -93,7 +93,7 @@ activities like plagiarism or creating misleading content. Additional guidelines
 restrictions will be provided for specific assignments.
 
 ::: {.callout-warning}
-Your quizes and exams will be pen and paper, so keep this in mind throughout the course.
+Your quizzes and exams will be pen and paper, so keep this in mind throughout the course.
 :::
 
 ## Grading Criteria
@@ -109,4 +109,3 @@ Final grade is based on the weighted sum of the following course works, **with t
 | Participation     | 5%     |
 | Midterm           | 25%    |
 | Final Exam        | 25%    |
-
