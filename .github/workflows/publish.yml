@@ -35,6 +35,9 @@ jobs:
         env:
           SSH_KEY_PATH: ${{ github.workspace }}/../private.key
         run: |
+          # Only saw error with `-v` to scp
+          # https://askubuntu.com/a/1210732
+          chmod 666 /dev/tty
           scp -v -r -i $SSH_KEY_PATH \
             -o GlobalKnownHostsFile=~/.ssh/known_hosts docs \
             rrutherford4@erdos.dsm.fordham.edu:~/public_html
