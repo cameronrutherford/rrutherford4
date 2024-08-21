@@ -35,13 +35,6 @@ website:
       - text: "Site Dev Guide"
         menu:
           - about.qmd
-    tools:
-      - icon: github
-        href: https://github.com/cameronrutherford
-        text: Quarto GitHub
-      - icon: linkedin
-        href: https://www.linkedin.com/in/robert-c-rutherford/
-        text: LinkedIn
 
   sidebar:
     - id: cisc2200-fall24
