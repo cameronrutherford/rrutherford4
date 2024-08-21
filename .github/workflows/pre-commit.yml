@@ -1,6 +1,7 @@
 ---
 name: pre-commit autofix
-
+permissions:
+  contents: write
 "on":
   pull_request:
   push:
