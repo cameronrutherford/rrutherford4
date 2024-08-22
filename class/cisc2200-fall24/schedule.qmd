@@ -7,10 +7,33 @@ format:
     toc-depth: 4
 ---
 
-# Class Homepage
+Each lecture / class session will have it's own page, a summary will be given here.
 
-This page should have all the links you need to survive this class.
+Each class session will include notes on:
 
-TODO
+- Content
+- Suggested readings or videos
+- Homework / Project milestones
+- Quiz / Exam information
 
-To be determined how much content will live here compared to google / blackboard.
+## 08/28/2024
+
+## 09/02/2024
+
+**LABOR DAY**
+
+## 09/04/2024
+
+- **Tomorrow** is the last day to drop/add a class
+- Classes follow a Monday schedule...
+
+## 09/09/2024
+
+## 09/11/2024
+
+## 09/16/2024
+
+## 09/18/2024
+
+## 09/23/2024
+
