@@ -4,36 +4,636 @@ format:
   html:
     default: true
     toc: true
-    toc-depth: 4
+    toc-depth: 3
+
 ---
 
 Each lecture / class session will have it's own page, a summary will be given here.
 
-Each class session will include notes on:
+If anything is marked as due on a given day, it is due at 12pm EST that day unless otherwise stated.
 
-- Content
-- Suggested readings or videos
-- Homework / Project milestones
-- Quiz / Exam information
+## 08/28
 
-## 08/28/2024
+### Content
 
-## 09/02/2024
+#### Optional Content
 
-**LABOR DAY**
+### Lab / Project
 
-## 09/04/2024
+### Quiz / Exam
 
-- **Tomorrow** is the last day to drop/add a class
+### Due
+
+#### Today
+
+- Nothing :)
+
+#### Next Session
+
+##### Readings / videos
+
+##### Lab / Project
+
+##### Quiz / Exam Study
+
+## **LABOR DAY**
+
+## 09/04
+
 - Classes follow a Monday schedule...
 
-## 09/09/2024
+### Content
 
-## 09/11/2024
+#### Optional Content
 
-## 09/16/2024
+### Lab / Project
 
-## 09/18/2024
+### Quiz / Exam
 
-## 09/23/2024
+### Due
+
+#### Today
+
+#### Next Session
+
+- **Tomorrow** is the last day to drop/add a class. Choose wisely...
+
+##### Readings / videos
+
+##### Lab / Project
+
+##### Quiz / Exam Study
+
+## 09/09
+
+### Content
+
+#### Optional Content
+
+### Lab / Project
+
+### Quiz / Exam
+
+### Due
+
+#### Today
+
+#### Next Session
+
+##### Readings / videos
+
+##### Lab / Project
+
+##### Quiz / Exam Study
+
+## 09/11
+
+### Content
+
+#### Optional Content
+
+### Lab / Project
+
+### Quiz / Exam
+
+### Due
+
+#### Today
+
+#### Next Session
+
+- 09/13: Round 1 attendance reports due 
+
+##### Readings / videos
+
+##### Lab / Project
+
+##### Quiz / Exam Study
+
+## 09/16
+
+### Content
+
+#### Optional Content
+
+### Lab / Project
+
+### Quiz / Exam
+
+### Due
+
+#### Today
+
+#### Next Session
+
+##### Readings / videos
+
+##### Lab / Project
+
+##### Quiz / Exam Study
+
+## 09/18
+
+### Content
+
+#### Optional Content
+
+### Lab / Project
+
+### Quiz / Exam
+
+### Due
+
+#### Today
+
+#### Next Session
+
+##### Readings / videos
+
+##### Lab / Project
+
+##### Quiz / Exam Study
+
+## 09/23
+
+### Content
+
+#### Optional Content
+
+### Lab / Project
+
+### Quiz / Exam
+
+### Due
+
+#### Today
+
+#### Next Session
+
+##### Readings / videos
+
+##### Lab / Project
+
+##### Quiz / Exam Study
+
+## 09/25
+
+### Content
+
+#### Optional Content
+
+### Lab / Project
+
+### Quiz / Exam
+
+### Due
+
+#### Today
+
+#### Next Session
+
+##### Readings / videos
+
+##### Lab / Project
+
+##### Quiz / Exam Study
+
+## 09/30
+
+### Content
+
+#### Optional Content
+
+### Lab / Project
+
+### Quiz / Exam
+
+### Due
+
+#### Today
+
+#### Next Session
+
+##### Readings / videos
+
+##### Lab / Project
+
+##### Quiz / Exam Study
+
+## 10/02
+
+### Content
+
+#### Optional Content
+
+### Lab / Project
+
+### Quiz / Exam
+
+### Due
+
+#### Today
+
+#### Next Session
+
+##### Readings / videos
+
+##### Lab / Project
+
+##### Quiz / Exam Study
+
+## 10/07
+
+### Content
+
+#### Optional Content
+
+### Lab / Project
+
+### Quiz / Exam
+
+### Due
+
+#### Today
+
+#### Next Session
+
+##### Readings / videos
+
+##### Lab / Project
+
+##### Quiz / Exam Study
+
+## 10/09
+
+### Content
+
+#### Optional Content
+
+### Lab / Project
+
+### Quiz / Exam
+
+### Due
+
+#### Today
+
+#### Next Session
+
+##### Readings / videos
+
+##### Lab / Project
+
+##### Quiz / Exam Study
+
+## **COLUMBUS DAY**
+
+## 10/16
+
+### Content
+
+#### Optional Content
+
+### Lab / Project
+
+### Quiz / Exam
+
+### Due
+
+#### Today
+
+#### Next Session
+
+##### Readings / videos
+
+##### Lab / Project
+
+##### Quiz / Exam Study
+
+## 10/21
+
+### Content
+
+#### Optional Content
+
+### Lab / Project
+
+### Quiz / Exam
+
+### Due
+
+#### Today
+
+#### Next Session
+
+##### Readings / videos
+
+##### Lab / Project
+
+##### Quiz / Exam Study
+
+## 10/23
+
+### Content
+
+#### Optional Content
+
+### Lab / Project
+
+### Quiz / Exam
+
+### Due
+
+#### Today
+
+#### Next Session
+
+##### Readings / videos
+
+##### Lab / Project
+
+##### Quiz / Exam Study
+
+## 10/28
+
+### Content
+
+#### Optional Content
+
+### Lab / Project
+
+### Quiz / Exam
+
+### Due
+
+#### Today
+
+#### Next Session
+
+- 10/29: Mid-semester evaluations due
+
+##### Readings / videos
+
+##### Lab / Project
+
+##### Quiz / Exam Study
+
+## 10/30
+
+### Content
+
+#### Optional Content
+
+### Lab / Project
+
+### Quiz / Exam
+
+### Due
+
+#### Today
+
+#### Next Session
+
+- 11/04: Round 2 attendance reports due
+
+##### Readings / videos
+
+##### Lab / Project
+
+##### Quiz / Exam Study
+
+## 11/04
+
+### Content
+
+#### Optional Content
+
+### Lab / Project
+
+### Quiz / Exam
+
+### Due
+
+#### Today
+
+#### Next Session
+
+- 11/05: Vote!!!
+
+##### Readings / videos
+
+##### Lab / Project
+
+##### Quiz / Exam Study
+
+## 11/06
+
+### Content
+
+#### Optional Content
+
+### Lab / Project
+
+### Quiz / Exam
+
+### Due
+
+#### Today
+
+#### Next Session
+
+##### Readings / videos
+
+##### Lab / Project
+
+##### Quiz / Exam Study
+
+## 11/11
+
+### Content
+
+#### Optional Content
+
+### Lab / Project
+
+### Quiz / Exam
+
+### Due
+
+#### Today
+
+#### Next Session
+
+##### Readings / videos
+
+##### Lab / Project
+
+##### Quiz / Exam Study
+
+## 11/13
+
+### Content
+
+#### Optional Content
+
+### Lab / Project
+
+### Quiz / Exam
+
+### Due
+
+#### Today
+
+#### Next Session
+
+##### Readings / videos
+
+##### Lab / Project
+
+##### Quiz / Exam Study
+
+## 11/18
+
+### Content
+
+#### Optional Content
+
+### Lab / Project
+
+### Quiz / Exam
+
+### Due
+
+#### Today
+
+#### Next Session
+
+##### Readings / videos
+
+##### Lab / Project
+
+##### Quiz / Exam Study
+
+## 11/20
+
+### Content
+
+#### Optional Content
+
+### Lab / Project
+
+### Quiz / Exam
+
+### Due
+
+#### Today
+
+#### Next Session
+
+##### Readings / videos
+
+##### Lab / Project
+
+##### Quiz / Exam Study
+
+## 11/25
+
+### Content
+
+#### Optional Content
+
+### Lab / Project
+
+### Quiz / Exam
+
+### Due
+
+#### Today
+
+#### Next Session
+
+##### Readings / videos
+
+##### Lab / Project
+
+##### Quiz / Exam Study
+
+## **THANKSGIVING**
+
+## 12/02
+
+### Content
+
+#### Optional Content
+
+### Lab / Project
+
+### Quiz / Exam
+
+### Due
+
+#### Today
+
+- Last day for designating a course Pass/Fail
+- Last day to withdraw from a course without incurring a WF
+
+#### Next Session
+
+##### Readings / videos
+
+##### Lab / Project
+
+##### Quiz / Exam Study
+
+## 12/04
+
+### Content
+
+#### Optional Content
+
+### Lab / Project
+
+### Quiz / Exam
+
+### Due
+
+#### Today
+
+#### Next Session
+
+##### Readings / videos
+
+##### Lab / Project
+
+##### Quiz / Exam Study
+
+## 12/09
+
+### Content
+
+#### Optional Content
+
+### Lab / Project
+
+### Quiz / Exam
+
+### Due
+
+#### Today
+
+#### Next Session
+
+- 12/10: Last Day of Classes...
+
+##### Readings / videos
+
+##### Lab / Project
+
+##### Quiz / Exam Study
+
+## 12/11
+
+*Make up day in case of cancellations*...
+
+## **FINAL EXAMS!**
 
