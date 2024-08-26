@@ -60,15 +60,19 @@ Unless another tool is decided on, we will host discussions on Blackboard as nee
 
 ## Attendance
 
-Attendance of lecture is mandatory.
+Attendance of lecture is mandatory. See section 2.3 of the [Fordham Undergradutate Faculty Handbook](https://www.fordham.edu/resources/policies/undergraduate-faculty-handbook/classes-and-exams/#syllabus) for more concrete information.
 
 ## Expectation
 
-Students are expected to spend five to eight hours (not including the lecture) each week in the assigned reading, homework and lab projects. Students are expected to read the assigned chapter of the textbook before the class.
+Students are expected to spend five to eight hours (not including the lecture) each week in the assigned reading, homework and lab projects.
+Students are expected to read the assigned chapter of the textbook before the class, and participate in class discussions as appropriate.
 
 ## Assignment
 
-Submissions turned in late will be penalized, and no submission is accepted one week after its due date. You can write to the instructor to ask for an extension of up to one week for reasons such as illness, heavy workload or other reasons. The maximum number of extensions per person is three. It's the student's responsibility to notify the instructor if there is any difficult in submitting programming assignment on line right away by email, and follow up with the instructor on next class.
+Submissions turned in late will be penalized, and no submission is accepted one week after its due date.
+You can write to the instructor to ask for an extension of up to one week for reasons such as illness, heavy workload or other reasons.
+The maximum number of extensions per person is three.
+It's the student's responsibility to notify the instructor if there is any difficult in submitting programming assignment on line right away by email, and follow up with the instructor on next class.
 
 ## Academic Integrity
 
@@ -109,3 +113,12 @@ Final grade is based on the weighted sum of the following course works, **with t
 | Participation     | 5%     |
 | Midterm           | 25%    |
 | Final Exam        | 25%    |
+
+## Office of Disability Services
+
+Per section 8.2 of the [Fordham Undergradutate Faculty Handbook](https://www.fordham.edu/resources/policies/undergraduate-faculty-handbook/supporting-student-success/):
+
+> If you are a student with a documented disability and require academic accommodations, please register with the Office of Disability Services for Students (ODS) in order to request academic accommodations for your courses.
+Please contact the main ODS number at 718-817-0655 to arrange services.
+Accommodations are not retroactive, so you need to register with ODS prior to receiving your accommodations.
+Please see me after class or during office hours if you have questions or would like to submit your academic accommodation letter to me if you have previously registered for accommodations.
