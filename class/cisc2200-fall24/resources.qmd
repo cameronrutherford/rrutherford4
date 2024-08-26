@@ -17,7 +17,7 @@ While none of these will be explicitly necessary to complete the course, you sho
   - **REQUIRED:** Includes [AutoGrader submission help](https://fordhamcis.github.io/CISTutorials/submitToAutograder/)
 - [UMich EECS 280](https://eecs280staff.github.io/tutorials/) tutorials
   - Great for environment setup, command line and other basics
-  - Inlcudes **VSCode SetUp Guide**
+  - Includes **VSCode SetUp Guide**
 - [C++ Tutorial](https://www.cplusplus.com/doc/tutorial/)
 - [Doctest tutorial](https://github.com/onqtam/doctest/blob/master/doc/markdown/tutorial.md)
 
@@ -48,4 +48,3 @@ While none of these will be explicitly necessary to complete the course, you sho
 - Online Practice:
   - [LeetCode](https://leetcode.com/problemset/)
   - [HackerRank - Data Structures](https://www.hackerrank.com/domains/data-structures)
-
