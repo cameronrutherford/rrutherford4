@@ -15,6 +15,37 @@ While none of these will be explicitly necessary to complete the course, you sho
 - [CIS Fordham tutorials](https://fordhamcis.github.io/CISTutorials/)
   - Basics from CS1/CS2
   - **REQUIRED:** Includes [AutoGrader submission help](https://fordhamcis.github.io/CISTutorials/submitToAutograder/)
+- [UMich EECS 280](https://eecs280staff.github.io/tutorials/) tutorials
+  - Great for environment setup, command line and other basics
+  - Inlcudes **VSCode SetUp Guide**
+- [C++ Tutorial](https://www.cplusplus.com/doc/tutorial/)
+- [Doctest tutorial](https://github.com/onqtam/doctest/blob/master/doc/markdown/tutorial.md)
 
+## Other Courses / Material
 
-To be determined how much content will live here compared to google / blackboard.
+- [CISC2200 Spring '24](https://storm.cis.fordham.edu/zhang/cs2200/)
+- CS2 Review:
+  - [Constructor](https://www.youtube.com/watch?v=hBq6EGX5II4)
+  - [Destructor](https://www.youtube.com/watch?v=gEcLCba7HQU)
+- Free Textbooks:
+  - [Open Data Structures](https://opendatastructures.org/)
+  - [Data Structures Wikibook](https://en.wikibooks.org/wiki/Data_Structures)
+  - [Algorithms, 4th Edition](https://algs4.cs.princeton.edu/home/) by Robert Sedgewick and Kevin Wayne
+  - [Algorithms](https://jeffe.cs.illinois.edu/teaching/algorithms/) by Jeff Erickson
+- Cheat Sheets / visualizations:
+  - [Big O Cheat Sheet](https://www.bigocheatsheet.com/)
+  - [Data Structure Visualizations](https://www.cs.usfca.edu/~galles/visualization/Algorithms.html)
+  - [Visualgo](https://visualgo.net/en)
+  - [Algorithm Visualizer](https://algorithm-visualizer.org/) - GitHub Copilot suggested this...
+  - [Makefile cheatsheet](https://devhints.io/makefile)
+- Online Resources:
+  - [The Missing Semester of Your CS Education](https://missing.csail.mit.edu/)
+  - [C++ Reference](https://en.cppreference.com/w/cpp)
+  - [C++ Tutor](https://pythontutor.com/cpp.html) - Visualize C++ code execution w/ AI assistance
+  - [GDB Manual](https://www.gnu.org/software/gdb/documentation/)
+  - [VSCode Debugging](https://code.visualstudio.com/docs/editor/debugging)
+  - [Doxygen documentation](https://www.doxygen.nl/index.html)
+- Online Practice:
+  - [LeetCode](https://leetcode.com/problemset/)
+  - [HackerRank - Data Structures](https://www.hackerrank.com/domains/data-structures)
+
