@@ -1,5 +1,6 @@
 ---
-title: "Cameron Rutherford"
+title: "Cameron Rutherford - Adjunct Professor"
+
 about:
   template: trestles
   image: https://scholar.googleusercontent.com/citations?view_op=medium_photo&user=3GFqQGoAAAAJ&citpid=1
@@ -16,7 +17,23 @@ about:
     - icon: person-rolodex
       href: https://cameronrutherford.quarto.pub/camerons-git-site/resume/resume.html
       text: Website / CV
-
+format:
+  html:
+    default: true
+  revealjs:
+    theme: night
+    slide-number: true
+    multiplex:
+      url: 'https://reveal-multiplex.glitch.me/'
+    output-ext: reveal.html
+    smaller: true
+    toc: true
+    toc-depth: 2
+    menu: true
+    slide-level: 3
+    auto-play-media: false
+revealjs-plugins:
+  - confetti
 ---
 
 ## About Me
@@ -31,13 +48,25 @@ My interests are in:
 - Quantum Computing, Scientific Software
 - DevOps, MLOps
 - Software packaging, Containerization
+- Privacy Preseseving Machine Learning
 
 ## Contact
 
-- Office: TBD
 - Phone: +1 (509)-218-1818
 - Email: [rrutherford4@fordham.edu](mailto:rrutherford4@fordham.edu)
 
 ## Office hours
 
-- TBD
+- LL-610F: TBD for specific hours. May over zoom...
+
+::: {.content-visible when-format="revealjs"}
+
+## "Growing Up"
+
+## High School
+
+## University
+
+## Work
+
+:::
