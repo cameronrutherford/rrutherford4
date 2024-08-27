@@ -1,3 +1,4 @@
 /.quarto/
 public_html/*
 site_libs/*
+*.html
