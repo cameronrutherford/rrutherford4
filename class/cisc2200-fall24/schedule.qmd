@@ -16,11 +16,23 @@ If anything is marked as due on a given day, it is due at 12pm EST that day unle
 
 ### Content
 
+- [Professor Introduction](./../../index.qmd)
+- [Couse Intro Slides](https://docs.google.com/presentation/d/1rGrOyCqNu3fuqEOVQof8Dk1ufRul9YhX/edit?usp=sharing&ouid=115990634876478916795&rtpof=true&sd=true)
+- [Course Syllabus](./index.qmd)
+- [Course Resources](./resources.qmd)
+- [Survey 1](https://forms.gle/bRdYNR2sxHpkUs3P9)
+
 #### Optional Content
+
+- [Developing Inside a Container](https://code.visualstudio.com/docs/devcontainers/containers)
+- [Try Development Containers: C++](https://github.com/microsoft/vscode-remote-try-cpp)
 
 ### Lab / Project
 
-### Quiz / Exam
+- [Project: Simple Expression Evaluator Overview](https://docs.google.com/presentation/d/19jkySeLhxxQ9n7AQXN3KEHtNo26_Grhy/edit?usp=sharing&ouid=115990634876478916795&rtpof=true&sd=true)
+  - [Part 1 Instructions](https://cisc2200.github.io/proj-part1/)
+  - [Part 2 Instructions](https://cisc2200.github.io/proj-part2/)
+  - [Part 3 Instructions](https://cisc2200.github.io/proj-part3/)
 
 ### Due
 
@@ -28,13 +40,11 @@ If anything is marked as due on a given day, it is due at 12pm EST that day unle
 
 - Nothing :)
 
-#### Next Session
+#### Next Session / Upcoming
 
-##### Readings / videos
-
-##### Lab / Project
-
-##### Quiz / Exam Study
+- [Lab 1: IntArray](https://github.com/CISC2200-Fall-24-Fordham/Lab1) - due 09/18
+  - Ensure that you can clone / compile / run the project
+- Quiz 1: 09/16
 
 ## **LABOR DAY**
 
@@ -48,22 +58,15 @@ If anything is marked as due on a given day, it is due at 12pm EST that day unle
 
 ### Lab / Project
 
-### Quiz / Exam
+- [Lab 1: IntArray](https://github.com/CISC2200-Fall-24-Fordham/Lab1) - due 09/18
 
 ### Due
 
-#### Today
-
-#### Next Session
+#### Next Session / Upcoming
 
 - **Tomorrow** is the last day to drop/add a class. Choose wisely...
 - 09/06: Syllabi are due to the dean's office
-
-##### Readings / videos
-
-##### Lab / Project
-
-##### Quiz / Exam Study
+- Quiz 1: 09/16
 
 ## 09/09
 
@@ -73,19 +76,14 @@ If anything is marked as due on a given day, it is due at 12pm EST that day unle
 
 ### Lab / Project
 
-### Quiz / Exam
+- [Lab 1: IntArray](https://github.com/CISC2200-Fall-24-Fordham/Lab1) - due 09/18
 
 ### Due
 
-#### Today
+#### Next Session / Upcoming
 
-#### Next Session
-
-##### Readings / videos
-
-##### Lab / Project
-
-##### Quiz / Exam Study
+- [Lab 1: IntArray](https://github.com/CISC2200-Fall-24-Fordham/Lab1) - due 09/18
+- Quiz 1: 09/16
 
 ## 09/11
 
@@ -95,8 +93,6 @@ If anything is marked as due on a given day, it is due at 12pm EST that day unle
 
 ### Lab / Project
 
-### Quiz / Exam
-
 ### Due
 
 #### Today
@@ -104,34 +100,17 @@ If anything is marked as due on a given day, it is due at 12pm EST that day unle
 #### Next Session
 
 - 09/13: Round 1 attendance reports due
-
-##### Readings / videos
-
-##### Lab / Project
-
-##### Quiz / Exam Study
+- Quiz 1: 09/16
 
 ## 09/16
 
-### Content
-
-#### Optional Content
-
-### Lab / Project
-
-### Quiz / Exam
+- **QUIZ 1** given in class
 
 ### Due
 
-#### Today
+#### Next Session / Upcoming
 
-#### Next Session
-
-##### Readings / videos
-
-##### Lab / Project
-
-##### Quiz / Exam Study
+- [Lab 1: IntArray](https://github.com/CISC2200-Fall-24-Fordham/Lab1) - due 09/18
 
 ## 09/18
 
@@ -141,19 +120,13 @@ If anything is marked as due on a given day, it is due at 12pm EST that day unle
 
 ### Lab / Project
 
-### Quiz / Exam
-
 ### Due
 
 #### Today
 
+- [Lab 1: IntArray](https://github.com/CISC2200-Fall-24-Fordham/Lab1) - due at midnight EST
+
 #### Next Session
-
-##### Readings / videos
-
-##### Lab / Project
-
-##### Quiz / Exam Study
 
 ## 09/23
 
@@ -163,19 +136,11 @@ If anything is marked as due on a given day, it is due at 12pm EST that day unle
 
 ### Lab / Project
 
-### Quiz / Exam
-
 ### Due
 
 #### Today
 
 #### Next Session
-
-##### Readings / videos
-
-##### Lab / Project
-
-##### Quiz / Exam Study
 
 ## 09/25
 
@@ -185,19 +150,11 @@ If anything is marked as due on a given day, it is due at 12pm EST that day unle
 
 ### Lab / Project
 
-### Quiz / Exam
-
 ### Due
 
 #### Today
 
 #### Next Session
-
-##### Readings / videos
-
-##### Lab / Project
-
-##### Quiz / Exam Study
 
 ## 09/30
 
@@ -207,19 +164,11 @@ If anything is marked as due on a given day, it is due at 12pm EST that day unle
 
 ### Lab / Project
 
-### Quiz / Exam
-
 ### Due
 
 #### Today
 
 #### Next Session
-
-##### Readings / videos
-
-##### Lab / Project
-
-##### Quiz / Exam Study
 
 ## 10/02
 
@@ -229,19 +178,11 @@ If anything is marked as due on a given day, it is due at 12pm EST that day unle
 
 ### Lab / Project
 
-### Quiz / Exam
-
 ### Due
 
 #### Today
 
 #### Next Session
-
-##### Readings / videos
-
-##### Lab / Project
-
-##### Quiz / Exam Study
 
 ## 10/07
 
@@ -251,19 +192,13 @@ If anything is marked as due on a given day, it is due at 12pm EST that day unle
 
 ### Lab / Project
 
-### Quiz / Exam
+### Lab / Project
 
 ### Due
 
 #### Today
 
 #### Next Session
-
-##### Readings / videos
-
-##### Lab / Project
-
-##### Quiz / Exam Study
 
 ## 10/09
 
@@ -273,19 +208,11 @@ If anything is marked as due on a given day, it is due at 12pm EST that day unle
 
 ### Lab / Project
 
-### Quiz / Exam
-
 ### Due
 
 #### Today
 
 #### Next Session
-
-##### Readings / videos
-
-##### Lab / Project
-
-##### Quiz / Exam Study
 
 ## **COLUMBUS DAY**
 
@@ -297,19 +224,11 @@ If anything is marked as due on a given day, it is due at 12pm EST that day unle
 
 ### Lab / Project
 
-### Quiz / Exam
-
 ### Due
 
 #### Today
 
 #### Next Session
-
-##### Readings / videos
-
-##### Lab / Project
-
-##### Quiz / Exam Study
 
 ## 10/21
 
@@ -319,19 +238,11 @@ If anything is marked as due on a given day, it is due at 12pm EST that day unle
 
 ### Lab / Project
 
-### Quiz / Exam
-
 ### Due
 
 #### Today
 
 #### Next Session
-
-##### Readings / videos
-
-##### Lab / Project
-
-##### Quiz / Exam Study
 
 ## 10/23
 
@@ -341,19 +252,11 @@ If anything is marked as due on a given day, it is due at 12pm EST that day unle
 
 ### Lab / Project
 
-### Quiz / Exam
-
 ### Due
 
 #### Today
 
 #### Next Session
-
-##### Readings / videos
-
-##### Lab / Project
-
-##### Quiz / Exam Study
 
 ## 10/28
 
@@ -363,8 +266,6 @@ If anything is marked as due on a given day, it is due at 12pm EST that day unle
 
 ### Lab / Project
 
-### Quiz / Exam
-
 ### Due
 
 #### Today
@@ -372,12 +273,6 @@ If anything is marked as due on a given day, it is due at 12pm EST that day unle
 #### Next Session
 
 - 10/29: Mid-semester evaluations due
-
-##### Readings / videos
-
-##### Lab / Project
-
-##### Quiz / Exam Study
 
 ## 10/30
 
@@ -387,8 +282,6 @@ If anything is marked as due on a given day, it is due at 12pm EST that day unle
 
 ### Lab / Project
 
-### Quiz / Exam
-
 ### Due
 
 #### Today
@@ -397,12 +290,6 @@ If anything is marked as due on a given day, it is due at 12pm EST that day unle
 
 - 11/04: Round 2 attendance reports due
 
-##### Readings / videos
-
-##### Lab / Project
-
-##### Quiz / Exam Study
-
 ## 11/04
 
 ### Content
@@ -410,8 +297,6 @@ If anything is marked as due on a given day, it is due at 12pm EST that day unle
 #### Optional Content
 
 ### Lab / Project
-
-### Quiz / Exam
 
 ### Due
 
@@ -423,12 +308,6 @@ If anything is marked as due on a given day, it is due at 12pm EST that day unle
 
 - 11/05: Vote!!!
 
-##### Readings / videos
-
-##### Lab / Project
-
-##### Quiz / Exam Study
-
 ## 11/06
 
 ### Content
@@ -437,19 +316,11 @@ If anything is marked as due on a given day, it is due at 12pm EST that day unle
 
 ### Lab / Project
 
-### Quiz / Exam
-
 ### Due
 
 #### Today
 
 #### Next Session
-
-##### Readings / videos
-
-##### Lab / Project
-
-##### Quiz / Exam Study
 
 ## 11/11
 
@@ -459,19 +330,11 @@ If anything is marked as due on a given day, it is due at 12pm EST that day unle
 
 ### Lab / Project
 
-### Quiz / Exam
-
 ### Due
 
 #### Today
 
 #### Next Session
-
-##### Readings / videos
-
-##### Lab / Project
-
-##### Quiz / Exam Study
 
 ## 11/13
 
@@ -481,19 +344,11 @@ If anything is marked as due on a given day, it is due at 12pm EST that day unle
 
 ### Lab / Project
 
-### Quiz / Exam
-
 ### Due
 
 #### Today
 
 #### Next Session
-
-##### Readings / videos
-
-##### Lab / Project
-
-##### Quiz / Exam Study
 
 ## 11/18
 
@@ -503,19 +358,11 @@ If anything is marked as due on a given day, it is due at 12pm EST that day unle
 
 ### Lab / Project
 
-### Quiz / Exam
-
 ### Due
 
 #### Today
 
 #### Next Session
-
-##### Readings / videos
-
-##### Lab / Project
-
-##### Quiz / Exam Study
 
 ## 11/20
 
@@ -525,19 +372,11 @@ If anything is marked as due on a given day, it is due at 12pm EST that day unle
 
 ### Lab / Project
 
-### Quiz / Exam
-
 ### Due
 
 #### Today
 
 #### Next Session
-
-##### Readings / videos
-
-##### Lab / Project
-
-##### Quiz / Exam Study
 
 ## 11/25
 
@@ -547,19 +386,11 @@ If anything is marked as due on a given day, it is due at 12pm EST that day unle
 
 ### Lab / Project
 
-### Quiz / Exam
-
 ### Due
 
 #### Today
 
 #### Next Session
-
-##### Readings / videos
-
-##### Lab / Project
-
-##### Quiz / Exam Study
 
 ## **THANKSGIVING**
 
@@ -571,8 +402,6 @@ If anything is marked as due on a given day, it is due at 12pm EST that day unle
 
 ### Lab / Project
 
-### Quiz / Exam
-
 ### Due
 
 #### Today
@@ -582,12 +411,6 @@ If anything is marked as due on a given day, it is due at 12pm EST that day unle
 
 #### Next Session
 
-##### Readings / videos
-
-##### Lab / Project
-
-##### Quiz / Exam Study
-
 ## 12/04
 
 ### Content
@@ -596,19 +419,11 @@ If anything is marked as due on a given day, it is due at 12pm EST that day unle
 
 ### Lab / Project
 
-### Quiz / Exam
-
 ### Due
 
 #### Today
 
 #### Next Session
-
-##### Readings / videos
-
-##### Lab / Project
-
-##### Quiz / Exam Study
 
 ## 12/09
 
@@ -618,8 +433,6 @@ If anything is marked as due on a given day, it is due at 12pm EST that day unle
 
 ### Lab / Project
 
-### Quiz / Exam
-
 ### Due
 
 #### Today
@@ -627,12 +440,6 @@ If anything is marked as due on a given day, it is due at 12pm EST that day unle
 #### Next Session
 
 - 12/10: Last Day of Classes...
-
-##### Readings / videos
-
-##### Lab / Project
-
-##### Quiz / Exam Study
 
 ## 12/11
 
