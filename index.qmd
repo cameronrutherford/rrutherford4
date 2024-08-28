@@ -63,10 +63,52 @@ My interests are in:
 
 ## "Growing Up"
 
+![Me as a baby for Halloween](https://cameronrutherford.quarto.pub/camerons-git-site/presentations/stem-engagement/images/baby.jpeg)
+
+###
+
+![Me with Andrew Bogut](https://cameronrutherford.quarto.pub/camerons-git-site/presentations/stem-engagement/images/bogut.jpeg)
+
 ## High School
+
+![Me in High School Chemistry](https://cameronrutherford.quarto.pub/camerons-git-site/presentations/stem-engagement/images/grammar.jpeg)
+
+###
+
+![My High School Basketball Team](https://cameronrutherford.quarto.pub/camerons-git-site/presentations/stem-engagement/images/gram-basketball.jpeg)
+
+###
+
+![My State Repsresentative Team](https://cameronrutherford.quarto.pub/camerons-git-site/presentations/stem-engagement/images/nationals.jpeg)
 
 ## University
 
+![Whitworth Men's basketball Team Picture 2017](https://i.ytimg.com/vi/Q1GbTwKw0xM/maxresdefault.jpg)
+
+There is also a highlight video...
+
+###
+
+![ASWU Group Picture](https://cameronrutherford.quarto.pub/camerons-git-site/presentations/stem-engagement/images/aswu.jpeg)
+
+###
+
+![Zoom of the Mandelbrot Set](https://cameronrutherford.quarto.pub/camerons-git-site/presentations/stem-engagement/images/mandle.gif)
+
 ## Work
+
+![ExaGO Visualization](https://cameronrutherford.quarto.pub/camerons-git-site/presentations/stem-engagement/images/exago.png)
+
+###
+
+{{<video https://www.youtube.com/watch?v=KIb3i6B84Ac&ab_channel=E3SM-EnergyExascaleEarthSystemModel >}}
+
+###
+
+![ORNL's Frontier Supercomputer](https://spectrum.ieee.org/media-library/the-frontier-supercomputer-retains-its-top-ranking-on-the-latest-entry-in-the-top500-list-of-the-worlds-fastest-high-performanc.jpg?id=32094316&width=3600&height=2700)
+
+###
+
+![IBMQ Quantum Computer](https://wp.technologyreview.com/wp-content/uploads/2019/03/leadspace-background-10.jpg)
 
 :::
