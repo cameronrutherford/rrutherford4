@@ -17,7 +17,7 @@ If anything is marked as due on a given day, it is due at 12pm EST that day unle
 ### Content
 
 - [Professor Introduction](./../../index.qmd)
-- [Couse Intro Slides](https://docs.google.com/presentation/d/1rGrOyCqNu3fuqEOVQof8Dk1ufRul9YhX/edit?usp=sharing&ouid=115990634876478916795&rtpof=true&sd=true)
+- [Course Intro Slides](https://docs.google.com/presentation/d/1rGrOyCqNu3fuqEOVQof8Dk1ufRul9YhX/edit?usp=sharing&ouid=115990634876478916795&rtpof=true&sd=true)
 - [Course Syllabus](./index.qmd)
 - [Course Resources](./resources.qmd)
 - [Survey 1](https://forms.gle/bRdYNR2sxHpkUs3P9)
