@@ -36,10 +36,6 @@ If anything is marked as due on a given day, it is due at 12pm EST that day unle
 
 ### Due
 
-#### Today
-
-- Nothing :)
-
 #### Next Session / Upcoming
 
 - [Lab 1: IntArray](https://github.com/CISC2200-Fall-24-Fordham/Lab1) - due 09/18
@@ -54,10 +50,15 @@ If anything is marked as due on a given day, it is due at 12pm EST that day unle
 
 ### Content
 
-#### Optional Content
+- [CPP Review](https://docs.google.com/presentation/d/1_DKSzRcnKmUTTQOVoL5a3EpjQHVDAN-Q/edit?usp=sharing&ouid=115990634876478916795&rtpof=true&sd=true)
+- CS2 Review
+  - [Friendship and inheritance](https://cplusplus.com/doc/tutorial/inheritance/)
+  - [Polymorphism](https://cplusplus.com/doc/tutorial/polymorphism/)
+  - [std::sort / iteration protocols](https://en.cppreference.com/w/cpp/algorithm/sort)
 
 ### Lab / Project
 
+- In-class Lab: [CS2 Review Coding Exercise](https://github.com/CISC2200-Fall-24-Fordham/CS2-Review)
 - [Lab 1: IntArray](https://github.com/CISC2200-Fall-24-Fordham/Lab1) - due 09/18
 
 ### Due
@@ -65,14 +66,17 @@ If anything is marked as due on a given day, it is due at 12pm EST that day unle
 #### Next Session / Upcoming
 
 - **Tomorrow** is the last day to drop/add a class. Choose wisely...
+- [Lab 1: IntArray](https://github.com/CISC2200-Fall-24-Fordham/Lab1) - due 09/18
 - 09/06: Syllabi are due to the dean's office
 - Quiz 1: 09/16
+  - [Quiz 1 Study Guide](https://docs.google.com/document/d/1hzwxkHhTrzqFQrr6YJNpGAaOq11AjvNoqIYvWn3NaEI/edit?usp=sharing)
 
 ## 09/09
 
 ### Content
 
-#### Optional Content
+- Pointers, references and IntList Slides
+- Quiz 1 review
 
 ### Lab / Project
 
@@ -84,27 +88,31 @@ If anything is marked as due on a given day, it is due at 12pm EST that day unle
 
 - [Lab 1: IntArray](https://github.com/CISC2200-Fall-24-Fordham/Lab1) - due 09/18
 - Quiz 1: 09/16
+  - [Quiz 1 Study Guide](https://docs.google.com/document/d/1hzwxkHhTrzqFQrr6YJNpGAaOq11AjvNoqIYvWn3NaEI/edit?usp=sharing)
 
 ## 09/11
 
 ### Content
 
-#### Optional Content
+- Pointers, references and IntList Slides
+- Quiz 1 review
 
 ### Lab / Project
 
-### Due
+- [Lab 1: IntArray](https://github.com/CISC2200-Fall-24-Fordham/Lab1) - due 09/18
 
-#### Today
+### Due
 
 #### Next Session
 
 - 09/13: Round 1 attendance reports due
 - Quiz 1: 09/16
+  - [Quiz 1 Study Guide](https://docs.google.com/document/d/1hzwxkHhTrzqFQrr6YJNpGAaOq11AjvNoqIYvWn3NaEI/edit?usp=sharing)
 
 ## 09/16
 
 - **QUIZ 1** given in class
+  - [Quiz 1 Study Guide](https://docs.google.com/document/d/1hzwxkHhTrzqFQrr6YJNpGAaOq11AjvNoqIYvWn3NaEI/edit?usp=sharing)
 
 ### Due
 
@@ -116,7 +124,7 @@ If anything is marked as due on a given day, it is due at 12pm EST that day unle
 
 ### Content
 
-#### Optional Content
+- IntList Slides
 
 ### Lab / Project
 
@@ -126,15 +134,19 @@ If anything is marked as due on a given day, it is due at 12pm EST that day unle
 
 - [Lab 1: IntArray](https://github.com/CISC2200-Fall-24-Fordham/Lab1) - due at midnight EST
 
-#### Next Session
+#### Next Session / Upcoming
+
+- Quiz 1 Test Corrections due Friday 09/20
 
 ## 09/23
 
 ### Content
 
-#### Optional Content
+- Singly Linked List Slides
 
 ### Lab / Project
+
+- Lab2: Singly Linked List - due 10/02
 
 ### Due
 
@@ -146,9 +158,11 @@ If anything is marked as due on a given day, it is due at 12pm EST that day unle
 
 ### Content
 
-#### Optional Content
+- Sentinel Node, Template Slides
 
 ### Lab / Project
+
+- Lab2: Singly Linked Lists - due 10/02
 
 ### Due
 
@@ -160,9 +174,11 @@ If anything is marked as due on a given day, it is due at 12pm EST that day unle
 
 ### Content
 
-#### Optional Content
+- Sentinel Node, Template Slides
 
 ### Lab / Project
+
+- Lab2: Singly Linked Lists - due 10/02
 
 ### Due
 
@@ -174,7 +190,7 @@ If anything is marked as due on a given day, it is due at 12pm EST that day unle
 
 ### Content
 
-#### Optional Content
+- Doubly Linked Lists
 
 ### Lab / Project
 
@@ -182,15 +198,13 @@ If anything is marked as due on a given day, it is due at 12pm EST that day unle
 
 #### Today
 
+- Lab2: Singly Linked Lists - due midnight EST
+
 #### Next Session
 
 ## 10/07
 
-### Content
-
-#### Optional Content
-
-### Lab / Project
+- **QUIZ 2** given in class
 
 ### Lab / Project
 
@@ -204,7 +218,9 @@ If anything is marked as due on a given day, it is due at 12pm EST that day unle
 
 ### Content
 
-#### Optional Content
+- Quiz 1 and Quiz 2 review
+- DLL and Arrary Review
+- Project: Simple Expression Evaluator Overview Part 1
 
 ### Lab / Project
 
@@ -214,13 +230,16 @@ If anything is marked as due on a given day, it is due at 12pm EST that day unle
 
 #### Next Session
 
+- Quiz 2 Test Corrections due Friday 10/11
+- Project Part 1 due 10/23
+
 ## **COLUMBUS DAY**
 
 ## 10/16
 
 ### Content
 
-#### Optional Content
+- Array Lists, Resizing vs. SLLists slides
 
 ### Lab / Project
 
@@ -234,7 +253,7 @@ If anything is marked as due on a given day, it is due at 12pm EST that day unle
 
 ### Content
 
-#### Optional Content
+- AList, Lab3 and Project part 1
 
 ### Lab / Project
 
@@ -248,21 +267,19 @@ If anything is marked as due on a given day, it is due at 12pm EST that day unle
 
 ### Content
 
-#### Optional Content
-
 ### Lab / Project
 
 ### Due
 
 #### Today
 
+- Project part 1
+
 #### Next Session
 
 ## 10/28
 
 ### Content
-
-#### Optional Content
 
 ### Lab / Project
 
@@ -278,8 +295,6 @@ If anything is marked as due on a given day, it is due at 12pm EST that day unle
 
 ### Content
 
-#### Optional Content
-
 ### Lab / Project
 
 ### Due
@@ -293,8 +308,6 @@ If anything is marked as due on a given day, it is due at 12pm EST that day unle
 ## 11/04
 
 ### Content
-
-#### Optional Content
 
 ### Lab / Project
 
@@ -312,8 +325,6 @@ If anything is marked as due on a given day, it is due at 12pm EST that day unle
 
 ### Content
 
-#### Optional Content
-
 ### Lab / Project
 
 ### Due
@@ -325,8 +336,6 @@ If anything is marked as due on a given day, it is due at 12pm EST that day unle
 ## 11/11
 
 ### Content
-
-#### Optional Content
 
 ### Lab / Project
 
@@ -340,8 +349,6 @@ If anything is marked as due on a given day, it is due at 12pm EST that day unle
 
 ### Content
 
-#### Optional Content
-
 ### Lab / Project
 
 ### Due
@@ -353,8 +360,6 @@ If anything is marked as due on a given day, it is due at 12pm EST that day unle
 ## 11/18
 
 ### Content
-
-#### Optional Content
 
 ### Lab / Project
 
@@ -368,8 +373,6 @@ If anything is marked as due on a given day, it is due at 12pm EST that day unle
 
 ### Content
 
-#### Optional Content
-
 ### Lab / Project
 
 ### Due
@@ -381,8 +384,6 @@ If anything is marked as due on a given day, it is due at 12pm EST that day unle
 ## 11/25
 
 ### Content
-
-#### Optional Content
 
 ### Lab / Project
 
@@ -397,8 +398,6 @@ If anything is marked as due on a given day, it is due at 12pm EST that day unle
 ## 12/02
 
 ### Content
-
-#### Optional Content
 
 ### Lab / Project
 
@@ -415,8 +414,6 @@ If anything is marked as due on a given day, it is due at 12pm EST that day unle
 
 ### Content
 
-#### Optional Content
-
 ### Lab / Project
 
 ### Due
@@ -428,8 +425,6 @@ If anything is marked as due on a given day, it is due at 12pm EST that day unle
 ## 12/09
 
 ### Content
-
-#### Optional Content
 
 ### Lab / Project
 
