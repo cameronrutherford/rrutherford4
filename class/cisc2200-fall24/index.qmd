@@ -50,7 +50,7 @@ To be determined how much content will live here compared to google / blackboard
 
 ## Instruction
 
-Lecture: Monday/Wednesday 1-2:15pm, LL-604
+Lecture: Monday/Wednesday 1-2:15pm, 104W-324
 
 See [my rrutherford4 homepage](../../index.qmd) for office hours and contact information.
 

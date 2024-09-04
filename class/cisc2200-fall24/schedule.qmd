@@ -50,6 +50,7 @@ If anything is marked as due on a given day, it is due at 12pm EST that day unle
 
 ### Content
 
+- [Office Hours Poll](https://doodle.com/meeting/participate/id/aKmYq0Gd)
 - [CPP Review](https://docs.google.com/presentation/d/1_DKSzRcnKmUTTQOVoL5a3EpjQHVDAN-Q/edit?usp=sharing&ouid=115990634876478916795&rtpof=true&sd=true)
 - CS2 Review
   - [Friendship and inheritance](https://cplusplus.com/doc/tutorial/inheritance/)
