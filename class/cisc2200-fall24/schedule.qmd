@@ -219,7 +219,7 @@ If anything is marked as due on a given day, it is due at 12pm EST that day unle
 ### Content
 
 - Quiz 1 and Quiz 2 review
-- DLL and Arrary Review
+- DLL and Array Review
 - Project: Simple Expression Evaluator Overview Part 1
 
 ### Lab / Project
