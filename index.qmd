@@ -57,7 +57,7 @@ My interests are in:
 
 ## Office hours
 
-- LL-610F: TBD for specific hours. May over zoom...
+- Monday / Wednesday 10:30-12pm LL-610F (potentially different room...)
 
 ::: {.content-visible when-format="revealjs"}
 

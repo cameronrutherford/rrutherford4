@@ -10,7 +10,7 @@ format:
 
 Each lecture / class session will have it's own page, a summary will be given here.
 
-If anything is marked as due on a given day, it is due at 12pm EST that day unless otherwise stated.
+If anything is marked as due on a given day, it is due at 11:59pm EST that day unless otherwise stated.
 
 ## 08/28
 
