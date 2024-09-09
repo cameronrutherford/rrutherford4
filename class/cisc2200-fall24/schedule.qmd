@@ -73,6 +73,7 @@ If anything is marked as due on a given day, it is due at 11:59pm EST that day u
 ### Content
 
 - Wrap-up In-class Lab: [CS2 Review Coding Exercise](https://github.com/CISC2200-Fall-24-Fordham/CS2-Review)
+  - [Printing Colored Text](https://www.geeksforgeeks.org/how-to-print-colored-text-in-c/)
 - [Pointers, references and IntList Slides](https://docs.google.com/presentation/d/1k97kFssH5m_XeCKtOZoaFU41pCYSyP9z/edit?usp=sharing&ouid=115990634876478916795&rtpof=true&sd=true)
   - [NULL vs. nullptr](https://stackoverflow.com/questions/36484473/is-c-null-equal-to-c11-nullptr)
 - [IntList Sample Code](https://github.com/CISC2200-Fall-24-Fordham/IntList)

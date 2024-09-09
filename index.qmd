@@ -57,7 +57,8 @@ My interests are in:
 
 ## Office hours
 
-- Monday / Wednesday 10:30-12pm LL-610F (potentially different room...)
+- Monday 10:30-12pm LL-812B
+- Wednesday 10:30-12pm LL-875B
 
 ::: {.content-visible when-format="revealjs"}
 
