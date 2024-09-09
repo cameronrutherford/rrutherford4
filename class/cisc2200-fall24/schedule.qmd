@@ -10,7 +10,7 @@ format:
 
 Each lecture / class session will have it's own page, a summary will be given here.
 
-If anything is marked as due on a given day, it is due at 12pm EST that day unless otherwise stated.
+If anything is marked as due on a given day, it is due at 11:59pm EST that day unless otherwise stated.
 
 ## 08/28
 
@@ -27,7 +27,7 @@ If anything is marked as due on a given day, it is due at 12pm EST that day unle
 - [Developing Inside a Container](https://code.visualstudio.com/docs/devcontainers/containers)
 - [Try Development Containers: C++](https://github.com/microsoft/vscode-remote-try-cpp)
 
-### Lab / Project
+### Project
 
 - [Project: Simple Expression Evaluator Overview](https://docs.google.com/presentation/d/19jkySeLhxxQ9n7AQXN3KEHtNo26_Grhy/edit?usp=sharing&ouid=115990634876478916795&rtpof=true&sd=true)
   - [Part 1 Instructions](https://cisc2200.github.io/proj-part1/)
@@ -56,11 +56,7 @@ If anything is marked as due on a given day, it is due at 12pm EST that day unle
   - [Friendship and inheritance](https://cplusplus.com/doc/tutorial/inheritance/)
   - [Polymorphism](https://cplusplus.com/doc/tutorial/polymorphism/)
   - [std::sort / iteration protocols](https://en.cppreference.com/w/cpp/algorithm/sort)
-
-### Lab / Project
-
 - In-class Lab: [CS2 Review Coding Exercise](https://github.com/CISC2200-Fall-24-Fordham/CS2-Review)
-- [Lab 1: IntArray](https://github.com/CISC2200-Fall-24-Fordham/Lab1) - due 09/18
 
 ### Due
 
@@ -76,12 +72,12 @@ If anything is marked as due on a given day, it is due at 12pm EST that day unle
 
 ### Content
 
-- Pointers, references and IntList Slides
+- Wrap-up In-class Lab: [CS2 Review Coding Exercise](https://github.com/CISC2200-Fall-24-Fordham/CS2-Review)
+- [Pointers, references and IntList Slides](https://docs.google.com/presentation/d/1k97kFssH5m_XeCKtOZoaFU41pCYSyP9z/edit?usp=sharing&ouid=115990634876478916795&rtpof=true&sd=true)
+  - [NULL vs. nullptr](https://stackoverflow.com/questions/36484473/is-c-null-equal-to-c11-nullptr)
+- [IntList Sample Code](https://github.com/CISC2200-Fall-24-Fordham/IntList)
 - Quiz 1 review
-
-### Lab / Project
-
-- [Lab 1: IntArray](https://github.com/CISC2200-Fall-24-Fordham/Lab1) - due 09/18
+  - [Quiz 1 Study Guide](https://docs.google.com/document/d/1hzwxkHhTrzqFQrr6YJNpGAaOq11AjvNoqIYvWn3NaEI/edit?usp=sharing)
 
 ### Due
 
@@ -95,22 +91,26 @@ If anything is marked as due on a given day, it is due at 12pm EST that day unle
 
 ### Content
 
-- Pointers, references and IntList Slides
+- [ADT IntList Slides](https://docs.google.com/presentation/d/18ioi-LNuQuZwa5D-GVoD6a9J9fisvGBV/edit?usp=sharing&ouid=115990634876478916795&rtpof=true&sd=true)
 - Quiz 1 review
-
-### Lab / Project
-
-- [Lab 1: IntArray](https://github.com/CISC2200-Fall-24-Fordham/Lab1) - due 09/18
+  - [Quiz 1 Study Guide](https://docs.google.com/document/d/1hzwxkHhTrzqFQrr6YJNpGAaOq11AjvNoqIYvWn3NaEI/edit?usp=sharing)
+- Suggested Reading:
+  - [Recursion Over Lists YouTube video](https://youtu.be/0y325A82vMc)
+  - [How Not to Teach Recursion](https://parentheticallyspeaking.org/articles/how-not-to-teach-recursion/)
+  - [Makefile Tutorial](https://makefiletutorial.com/)
 
 ### Due
 
 #### Next Session
 
 - 09/13: Round 1 attendance reports due
+- [Lab 1: IntArray](https://github.com/CISC2200-Fall-24-Fordham/Lab1) - due 09/18
 - Quiz 1: 09/16
   - [Quiz 1 Study Guide](https://docs.google.com/document/d/1hzwxkHhTrzqFQrr6YJNpGAaOq11AjvNoqIYvWn3NaEI/edit?usp=sharing)
 
 ## 09/16
+
+### Content
 
 - **QUIZ 1** given in class
   - [Quiz 1 Study Guide](https://docs.google.com/document/d/1hzwxkHhTrzqFQrr6YJNpGAaOq11AjvNoqIYvWn3NaEI/edit?usp=sharing)
@@ -125,9 +125,11 @@ If anything is marked as due on a given day, it is due at 12pm EST that day unle
 
 ### Content
 
-- IntList Slides
-
-### Lab / Project
+- Lab 1 questions
+- Quiz 1 Review: Test Corrections
+- [Singly Linked List Slides](https://docs.google.com/presentation/d/17_A_BH-sARkvC3qeYKFejE_bnlh__eXU/edit?usp=sharing&ouid=115990634876478916795&rtpof=true&sd=true)
+- Suggested Reading:
+  - [Return by Reference](https://www.scaler.com/topics/cpp-return-reference/)
 
 ### Due
 
