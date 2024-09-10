@@ -138,7 +138,7 @@ be optional assignments that can be turned in the next class after a graded quiz
 
 Test corrections will apply the following function to your grade on a given test, where $x$ is the
 percentage of questions on the quiz you got right initially, and $y$ is the percent of test corrections
-you were able to succesfully do (you should really have $y = 100\%$...):
+you were able to successfully do (you should really have $y = 100\%$...):
 
 $$ f(x, y) = x + (1 - x) * (\frac{y}{2}) $$
 
