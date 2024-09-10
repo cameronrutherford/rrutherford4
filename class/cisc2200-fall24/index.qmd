@@ -114,6 +114,38 @@ Final grade is based on the weighted sum of the following course works, **with t
 | Midterm           | 25%    |
 | Final Exam        | 25%    |
 
+### Quizzes
+
+Quizzes will be given in-class, using pen-and-paper. If you are unable to attend class,
+you have a few options:
+
+* Attend Office hours to do make-up quizz
+* Schedule an additional office hours to make-up quiz
+* Take quiz over zoom
+
+In cases where there are people taking quizzes at different times, quizzes may be modified
+slightly to avoid potential issues with sharing test material.
+
+For all Quizzes, Midterms and Finals, you will be allowed one a4 piece of paper with hand-written notes.
+You will turn this in (if you used one) with your quiz / exam, and it will be returned with your graded quiz / exam.
+
+For the midterm / final exam, you are permitted all previous cheat sheets, along with one additional A4 page of notes.
+
+#### Quiz / Midterm corrections
+
+Excluding the final exam (the final exam may be curved if necessary), test corrections will
+be optional assignments that can be turned in the next class after a graded quiz has been returned.
+
+Test corrections will apply the following function to your grade on a given test, where $x$ is the
+percentage of questions on the quiz you got right initially, and $y$ is the percent of test corrections
+you were able to successfully do (you should really have $y = 100\%$...):
+
+$$ f(x, y) = x + (1 - x) * (\frac{y}{2}) $$
+
+So, for example, say you have a $70\%$, and you get $100\%$ on your test corrections, you would end up with:
+
+$$ f(0.7, 1) = 0.7 + (1 - 0.7) * \frac{1}{2} \\ = 0.7 + (0.3) * (0.5) \\ = 0.85 $$
+
 ## Office of Disability Services
 
 Per section 8.2 of the [Fordham Undergradutate Faculty Handbook](https://www.fordham.edu/resources/policies/undergraduate-faculty-handbook/supporting-student-success/):
