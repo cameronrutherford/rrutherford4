@@ -96,6 +96,7 @@ If anything is marked as due on a given day, it is due at 11:59pm EST that day u
   - [IntList Sample Code - UPDATED](https://github.com/CISC2200-Fall-24-Fordham/IntList)
 - Quiz 1 review
   - [Quiz 1 Study Guide](https://docs.google.com/document/d/1hzwxkHhTrzqFQrr6YJNpGAaOq11AjvNoqIYvWn3NaEI/edit?usp=sharing)
+  - [Quiz 1 Review and Further Reading](https://docs.google.com/document/d/1TRiqVw-4abvVl-3sNkf00gqPXnRiiRj8E_G8MeCHLS0/edit?usp=sharing)
 - Making things pretty
   - [std::format](https://en.cppreference.com/w/cpp/utility/format/format) - I might cover color printing later...
   - [VSCode Themes](https://code.visualstudio.com/docs/getstarted/themes)
