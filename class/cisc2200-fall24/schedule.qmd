@@ -93,8 +93,16 @@ If anything is marked as due on a given day, it is due at 11:59pm EST that day u
 ### Content
 
 - [ADT IntList Slides](https://docs.google.com/presentation/d/18ioi-LNuQuZwa5D-GVoD6a9J9fisvGBV/edit?usp=sharing&ouid=115990634876478916795&rtpof=true&sd=true)
+  - [IntList Sample Code - UPDATED](https://github.com/CISC2200-Fall-24-Fordham/IntList)
 - Quiz 1 review
   - [Quiz 1 Study Guide](https://docs.google.com/document/d/1hzwxkHhTrzqFQrr6YJNpGAaOq11AjvNoqIYvWn3NaEI/edit?usp=sharing)
+- Making things pretty
+  - [std::format](https://en.cppreference.com/w/cpp/utility/format/format) - I might cover color printing later...
+  - [VSCode Themes](https://code.visualstudio.com/docs/getstarted/themes)
+  - [Linux, The Terminal, and Oh-My-Bash](./../../howto/shell.qmd)
+
+### Bonus Content
+
 - Suggested Reading:
   - [Recursion Over Lists YouTube video](https://youtu.be/0y325A82vMc)
   - [How Not to Teach Recursion](https://parentheticallyspeaking.org/articles/how-not-to-teach-recursion/)

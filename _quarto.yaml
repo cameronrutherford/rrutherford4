@@ -30,8 +30,7 @@ website:
             href: class/cisc2200-fall24/index.qmd
       - text: "How To Guides"
         menu:
-          - howto/vscode.qmd
-          - howto/docker.qmd
+          - howto/shell.qmd
       - text: "Site Dev Guide"
         menu:
           - about.qmd
