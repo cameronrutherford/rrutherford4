@@ -1,0 +1,349 @@
+---
+title: "Caring for your virtual environment"
+author: Cameron Rutherford
+format:
+  html:
+    default: true
+  revealjs:
+    theme: beige
+    slide-number: true
+    multiplex:
+      url: 'https://reveal-multiplex.glitch.me/'
+    output-ext: reveal.html
+    smaller: true
+    toc: true
+    toc-depth: 2
+    menu: true
+    slide-level: 3
+    auto-play-media: false
+revealjs-plugins:
+  - confetti
+---
+
+:::: {.content-visible when-format="revealjs"}
+
+## Operating system (OS)
+
+### Operating system (OS)
+
+OSs ^[OSs is the plural of Operating systems. Not OSes or OS's] act as the intermediary between a User / Application, and the underlying hardware.
+
+Some distinctions can be made about different OSs:
+
+* Single user vs. Multi user
+* How they handle the kernel, memory management and threading
+* How your filesystem(s) are configured
+* Security / Networking Considerations
+
+### Unix
+
+:::{.column-body-outset}
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/cd/Unix_timeline.en.svg">
+
+:::
+
+### glibc
+
+glibc is the GNU C Library, and is the GNU implementation of the C standard library. It is used in most Linux distributions.
+
+:::{.column-body-outset}
+
+<img height="500" src="https://upload.wikimedia.org/wikipedia/commons/4/45/Linux_kernel_System_Call_Interface_and_glibc.svg">
+
+:::
+
+### What about my machine?
+
+:::: {.columns}
+
+::: {.column width="50%"}
+
+You might have any of the following:
+
+* MacOS
+* Some Linux distribution
+* Windows
+* iOS / Android
+* other
+
+:::
+
+::: {.column width="50%"}
+
+For windows / non-POSIX compliant systems, consider:
+
+* Cygwin
+* MinGW
+* Windows Subsystem for Linux (WSL)
+
+:::
+
+::::
+
+The Portable Operating System Interface (POSIX) attempts to unify and standardize across different operating systesms, but it is up to the implementation as to what is supported.
+
+## Linux shell(s)
+
+Okay, so we have an Operating Systems with a glibc version, but how do we interact with the system?
+
+We use a *unix shell* for this, which provides a Command Line Interface (CLI) to the OS. This is both an interactive command tool, as well as a scripting tool.
+
+You have a few different options when picking a shell:
+
+* Bourne Shell (sh)
+* Bourne-Again shell (bash)
+* C shell (csh)
+* TENEX C shell (tcsh)
+* Z shell (zsh)
+* KornShell (ksh)
+
+## Terminal Emulators
+
+A terminal emulator, or terminal application, is a program that emulates a video terminal within some other display architecture.
+
+Here are some example terminal emulators:
+
+* Alacritty
+* iTerm2
+* PuTTY
+* xterm
+* GNOME Terminator
+* Guake
+
+## Configuration files
+
+:::: {.columns}
+
+::: {.column width="50%"}
+
+![Configuration File Matrix](images/config-files.png)
+
+:::
+
+::: {.column width="50%"}
+
+Since each shell deals with configuration files slightly differently, this can become overwhelming to discuss.
+For this workshop, we will just be talking about *bash* from now on.
+Key configuration files in bash:
+
+- `~/.bashrc`
+- `~/.bash_profile`
+
+:::
+
+::::
+
+### Making things look pretty
+
+Taking iTerm2 as an example, you can customize the following:
+
+* Modify window size / appearance
+* Modify your text / font configuration (add icons)
+* Enable / disable mouse reporting
+* Copy on select
+* Keyboard shortcuts
+
+In something like alacritty, these are configured by a single `alacritty.toml` file.
+
+But what about the terminal prompt? We can modify `PROMPT_COMMAND` and `PS1` in our init file...
+
+### Terminal Emulator cusomtization 1
+
+![Nice Beach Terminal](images/beach-term.png)
+
+### Terminal Emulator cusomtization 2
+
+![Terrible Webdings Terminal](images/headshot-webdings-terminal.png)
+
+### Terminal Emulator cusomtization 3
+
+![Cute Cat Terminal](images/cute-cat-terminal.png)
+
+## Oh my!?
+
+For all the shells mentioned, there are tools that help you manage your prompt themes:
+
+:::: {.columns}
+
+::: {.column width="50%"}
+
+* Bourne Shell (sh)
+* Bourne-Again shell (bash)
+* C shell (csh)
+* TENEX C shell (tcsh)
+* Z shell (zsh)
+* KornShell (ksh)
+* Windows Powershell (psh)
+
+:::
+
+::: {.column width="50%"}
+
+* sh - manual PS1 configuration(?)
+* bash - oh-my-bash
+* csh - manual configuration
+* tcsh - oh-my-posh
+* zsh - oh-my-zsh
+* ksh - oh-my-ksh
+* psh - oh-my-posh
+
+:::
+
+::::
+
+### Theme examples - wedisagree
+
+:::{.column-screen-inset}
+
+<img src="https://user-images.githubusercontent.com/49100982/108255779-bbbc8400-716d-11eb-98e9-3d0993efe2c3.jpg">
+
+:::
+
+### Theme examples - jonathan
+
+:::{.column-screen-inset}
+
+<img src="https://user-images.githubusercontent.com/49100982/108254860-8c594780-716c-11eb-8f8b-be04d4943216.jpg">
+
+:::
+
+### Theme examples - intheloop
+
+:::{.column-screen-inset}
+
+<img src="https://user-images.githubusercontent.com/49100982/108254849-89f6ed80-716c-11eb-8e92-dcf5e576df64.jpg">
+
+:::
+
+### Window Manager?
+
+While you can use your terminal emulator to manage your windows, you can also use tmux to manage your windows.
+
+:::{.column-screen-inset}
+
+<img src="https://www.nebulacentre.net/articles/server_dash/server_dash.png">
+
+:::
+
+::::
+
+:::: {.content-visible unless-format="revealjs"}
+
+## Tutorial
+
+The verbose exercise instructions are here, but make sure to view this page as a RevealJS presentation for the slides.
+
+If you haven't before, investigate the settings of your local emulator:
+
+## Customising your local terminal emulator
+
+Please refer to your emulator's documentation for full details on how to customize...
+
+Most platforms have a default terminal, but these often aren't feature complete and can leave you wanting more.
+
+### Platform agnostic
+
+#### Alacritty
+
+[https://alacritty.org/](https://alacritty.org/)
+
+### MacOS
+
+#### iTerm2
+
+[https://iterm2.com/](https://iterm2.com/)
+
+### Windows
+
+#### PuTTY
+
+[https://www.putty.org/](https://www.putty.org/)
+
+## Customising your shell environment
+
+Run the rest in your Linux terminal:
+
+- Experiment with modifying your PS1 manually
+- Attempt to modify your PS1 within your `~/.bashrc`, or modify other settings
+- Load and open tmux, make a new pane, switch to it, and close the previous pane
+- Install `oh-my-bash` or your equivalent, and load a pre-defined configuration
+
+### Backups
+
+For some of this exercise, we will be modifying your `~/.bashrc`. Before we do this, it's a good idea to back it up.
+
+You can do this in the following fashion:
+
+```bash
+$ cp ~/.bashrc ~/.bashrc.bak
+```
+
+Then, if you ever want to restore from this backup:
+
+```bash
+$ cp ~/.bashrc.bak ~/.bashrc
+```
+
+This manual process is nice, but still isn't foolproof. What if you `rm -rf ~`!? (please don't do this).
+
+### Customising your shell
+
+**Assuming you haven't already configured something like `oh-my-bash`**, let's get started.
+
+Your shell's "prompt" is configurable through the environment variable `PS1`. `PS1` here means "primary prompt".
+
+Try configuring your shell in the "hello-world" way:
+```bash
+$ export PS1="Hello, world! "
+```
+
+Then, you should see a modified prompt!
+
+If you have issues with this, it is likely because the environment variable `PROMPT_COMMAND` is configured to set `PS1`.
+
+To fix this, you can run the following command:
+```bash
+$ unset PROMPT_COMMAND
+```
+
+Then, re-export your `PS1`, and you should be good to go!
+
+### Persisting changes
+
+Now that we have modified this change manually, we probably want to have this persist across our login sessions.
+In order to do this, you will have to modify your `~/.bashrc` file. Do this using the OpenOnDemand file explorer + text editor if you don't have an IDE or shell based editor configured. Simply paste the commands that you needed to run manually into the bottom of this file, and you should be good to go!
+Remember that you can always restore from a backup as needed.
+
+Make sure to run `source ~/.bashrc` to see changes in your shell whenever you make modifications to your `~/.bashrc`
+
+### oh-my-bash
+
+[https://github.com/ohmybash/oh-my-bash?tab=readme-ov-file#basic-installation](https://github.com/ohmybash/oh-my-bash?tab=readme-ov-file#basic-installation) - follow the basic-installation instructions here.
+
+Then, picking a theme from the following list, [https://github.com/ohmyzsh/ohmyzsh/wiki/themes](https://github.com/ohmyzsh/ohmyzsh/wiki/themes), add a line like the following to your `~/.bashrc` to configure the theme:
+
+```bash
+OSH_THEME="powerline"
+```
+
+Make sure to run `source ~/.bashrc` to see changes in your shell whenever you make modifications to your `~/.bashrc`
+
+## tmux
+
+You need to first install tmux using either apt or homebrew. Google what is best for your environment.
+
+Once tmux is installed:
+
+```bash
+# This might be easier placed in your `.bashrc`
+$ export TERM=xterm-256color
+$ tmux
+```
+
+Then, you should see a green boarder around the bottom of your shell! This is tmux.
+In order to exit tmux, you can simply run `exit` in your shell.
+
+[https://hamvocke.com/blog/a-quick-and-easy-guide-to-tmux/#starting-your-first-session](https://hamvocke.com/blog/a-quick-and-easy-guide-to-tmux/#starting-your-first-session) - feel free to follow the contents of this article and explore tmux further if this sounds like a good window management approach to you.
+
+::::
