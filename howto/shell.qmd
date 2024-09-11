@@ -45,7 +45,7 @@ Some distinctions can be made about different OSs:
 
 ### glibc
 
-glibc is the GNU C Library, and is the GNU implemnetation of the C standard library. It is used in most Linux distributions.
+glibc is the GNU C Library, and is the GNU implementation of the C standard library. It is used in most Linux distributions.
 
 :::{.column-body-outset}
 
@@ -144,7 +144,7 @@ Taking iTerm2 as an example, you can customize the following:
 * Copy on select
 * Keyboard shortcuts
 
-In something like alacritty, these are configued by a single `alacritty.toml` file.
+In something like alacritty, these are configured by a single `alacritty.toml` file.
 
 But what about the terminal prompt? We can modify `PROMPT_COMMAND` and `PS1` in our init file...
 
@@ -289,7 +289,7 @@ This manual process is nice, but still isn't foolproof. What if you `rm -rf ~`!?
 
 ### Customising your shell
 
-**Assuming you haven't already configued something like `oh-my-bash`**, let's get started.
+**Assuming you haven't already configured something like `oh-my-bash`**, let's get started.
 
 Your shell's "prompt" is configurable through the environment variable `PS1`. `PS1` here means "primary prompt".
 
@@ -344,7 +344,6 @@ $ tmux
 Then, you should see a green boarder around the bottom of your shell! This is tmux.
 In order to exit tmux, you can simply run `exit` in your shell.
 
-[https://hamvocke.com/blog/a-quick-and-easy-guide-to-tmux/#starting-your-first-session](https://hamvocke.com/blog/a-quick-and-easy-guide-to-tmux/#starting-your-first-session) - feel free to follow the contents of this article and explore tmux furhter if this sounds like a good window management approach to you.
+[https://hamvocke.com/blog/a-quick-and-easy-guide-to-tmux/#starting-your-first-session](https://hamvocke.com/blog/a-quick-and-easy-guide-to-tmux/#starting-your-first-session) - feel free to follow the contents of this article and explore tmux further if this sounds like a good window management approach to you.
 
 ::::
-
