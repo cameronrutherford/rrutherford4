@@ -135,11 +135,14 @@ If anything is marked as due on a given day, it is due at 11:59pm EST that day u
 
 ### Content
 
-- Lab 1 questions
+- Lab 1 questions / C++ standard clarification
 - Quiz 1 Review: Test Corrections
 - [Singly Linked List Slides](https://docs.google.com/presentation/d/17_A_BH-sARkvC3qeYKFejE_bnlh__eXU/edit?usp=sharing&ouid=115990634876478916795&rtpof=true&sd=true)
+- [Singly Linked List Sample Code](https://github.com/CISC2200-Fall-24-Fordham/SLList)
 - Suggested Reading:
   - [Return by Reference](https://www.scaler.com/topics/cpp-return-reference/)
+  - [C++ Compiler Support](https://en.cppreference.com/w/cpp/compiler_support)
+  - [A simpler Makefile tutorial](https://codingnest.com/basic-makefiles/)
 
 ### Due
 
