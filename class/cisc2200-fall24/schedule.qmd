@@ -135,11 +135,18 @@ If anything is marked as due on a given day, it is due at 11:59pm EST that day u
 
 ### Content
 
-- Lab 1 questions
-- Quiz 1 Review: Test Corrections
+- Lab 1 questions / C++ standard clarification
+  - Lab1 only supports c++11
+  - I will enable c++20 support moving fowrard (I hope)
+- Quiz 1 Review: Test Corrections - next time!
 - [Singly Linked List Slides](https://docs.google.com/presentation/d/17_A_BH-sARkvC3qeYKFejE_bnlh__eXU/edit?usp=sharing&ouid=115990634876478916795&rtpof=true&sd=true)
+- [Singly Linked List Sample Code](https://github.com/CISC2200-Fall-24-Fordham/SLList)
+  - [Rule of Three](https://www.codementor.io/@sandesh87/the-rule-of-five-in-c-1pdgpzb04f)
+  - [Class Templates](https://cplusplus.com/doc/tutorial/templates/#class_templates)
 - Suggested Reading:
   - [Return by Reference](https://www.scaler.com/topics/cpp-return-reference/)
+  - [C++ Compiler Support](https://en.cppreference.com/w/cpp/compiler_support)
+  - [A simpler Makefile tutorial](https://codingnest.com/basic-makefiles/)
 
 ### Due
 
@@ -149,7 +156,9 @@ If anything is marked as due on a given day, it is due at 11:59pm EST that day u
 
 #### Next Session / Upcoming
 
-- Quiz 1 Test Corrections due Friday 09/20
+- Quiz 1 Test corrections due Wednesday 09/25
+- Lab2 will be assigned next session
+- Project part 1 will be assigned next session
 
 ## 09/23
 
@@ -159,6 +168,7 @@ If anything is marked as due on a given day, it is due at 11:59pm EST that day u
 
 ### Lab / Project
 
+- Quiz 1 Test corrections due Wednesday 09/25
 - Lab2: Singly Linked List - due 10/02
 
 ### Due
