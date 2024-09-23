@@ -164,78 +164,90 @@ If anything is marked as due on a given day, it is due at 11:59pm EST that day u
 
 ### Content
 
-- Singly Linked List Slides
+- [Quiz 1 Results](./quiz/1/index.qmd)
+- [SLList Slides II](https://docs.google.com/presentation/d/1wUVNy2AEawiv5mm2-2GzppNAfelU__0i/edit?usp=sharing&ouid=115990634876478916795&rtpof=true&sd=true)
+- [Singly Linked List Sample Code II](https://github.com/CISC2200-Fall-24-Fordham/SLList-2)
+  - [Rule of Three](https://www.codementor.io/@sandesh87/the-rule-of-five-in-c-1pdgpzb04f)
+  - [Class Templates](https://cplusplus.com/doc/tutorial/templates/#class_templates)
+- [Doubly Linked List Slides](https://docs.google.com/presentation/d/1DLrlCbtJjImK8KRjjH3Xx9WBPciODBAl/edit?usp=sharing&ouid=115990634876478916795&rtpof=true&sd=true)
 
 ### Lab / Project
 
-- Quiz 1 Test corrections due Wednesday 09/25
-- Lab2: Singly Linked List - due 10/02
+- [Lab 2: Singly Linked Lists - due 10/02](https://github.com/CISC2200-Fall-24-Fordham/Lab2)
+- [Project Part 1 - due 10/09](https://github.com/CISC2200-Fall-24-Fordham/Proj-1)
+  - [Project: Simple Expression Evaluator Overview](https://docs.google.com/presentation/d/19jkySeLhxxQ9n7AQXN3KEHtNo26_Grhy/edit?usp=sharing&ouid=115990634876478916795&rtpof=true&sd=true)
+  - [Part 1 Instructions](https://cisc2200.github.io/proj-part1/)
 
 ### Due
 
-#### Today
+#### Next Session / Upcoming
 
-#### Next Session
+- Quiz 1 test corrections due Wednesday 09/25
+  - Email me the corrections
+  - Email me about clarifications on the quiz
+  - Email me about Lab1 0/30
+- [Lab 2: Singly Linked Lists - due 10/02](https://github.com/CISC2200-Fall-24-Fordham/Lab2)
+- [Project Part 1 - due 10/09](https://github.com/CISC2200-Fall-24-Fordham/Proj-1)
+- [Quiz 2: 10/07 - study guide](https://docs.google.com/document/d/1dVEw0T5rDCFaZVHMhvZyIxU9wxyIHNNvcNlDyvCK7qM/edit?usp=sharing)
 
 ## 09/25
 
 ### Content
 
-- Sentinel Node, Template Slides
-
-### Lab / Project
-
-- Lab2: Singly Linked Lists - due 10/02
+- [SLList Slides II](https://docs.google.com/presentation/d/1wUVNy2AEawiv5mm2-2GzppNAfelU__0i/edit?usp=sharing&ouid=115990634876478916795&rtpof=true&sd=true)
+- [Singly Linked List Sample Code II](https://github.com/CISC2200-Fall-24-Fordham/SLList-2)
+  - [Rule of Three](https://www.codementor.io/@sandesh87/the-rule-of-five-in-c-1pdgpzb04f)
+  - [Class Templates](https://cplusplus.com/doc/tutorial/templates/#class_templates)
+- [Doubly Linked List Slides](https://docs.google.com/presentation/d/1DLrlCbtJjImK8KRjjH3Xx9WBPciODBAl/edit?usp=sharing&ouid=115990634876478916795&rtpof=true&sd=true)
 
 ### Due
 
-#### Today
+#### Next Session / Upcoming
 
-#### Next Session
+- [Lab 2: Singly Linked Lists - due 10/02](https://github.com/CISC2200-Fall-24-Fordham/Lab2)
+- [Project Part 1 - due 10/09](https://github.com/CISC2200-Fall-24-Fordham/Proj-1)
+- [Quiz 2: 10/07 - study guide](https://docs.google.com/document/d/1dVEw0T5rDCFaZVHMhvZyIxU9wxyIHNNvcNlDyvCK7qM/edit?usp=sharing)
 
 ## 09/30
 
 ### Content
 
-- Sentinel Node, Template Slides
-
-### Lab / Project
-
-- Lab2: Singly Linked Lists - due 10/02
+- Doubly Linked Lists
 
 ### Due
 
-#### Today
+#### Next Session / Upcoming
 
-#### Next Session
+- [Lab 2: Singly Linked Lists - due 10/02](https://github.com/CISC2200-Fall-24-Fordham/Lab2)
+- [Project Part 1 - due 10/09](https://github.com/CISC2200-Fall-24-Fordham/Proj-1)
+- [Quiz 2: 10/07 - study guide](https://docs.google.com/document/d/1dVEw0T5rDCFaZVHMhvZyIxU9wxyIHNNvcNlDyvCK7qM/edit?usp=sharing)
 
 ## 10/02
 
 ### Content
 
-- Doubly Linked Lists
-
-### Lab / Project
+- Doubly Linked Lists & Array Review
 
 ### Due
 
 #### Today
 
-- Lab2: Singly Linked Lists - due midnight EST
+- [Lab 2: Singly Linked Lists - due midnight EST](https://github.com/CISC2200-Fall-24-Fordham/Lab2)
 
-#### Next Session
+#### Next Session / Upcoming
+
+- [Project Part 1 - due 10/09](https://github.com/CISC2200-Fall-24-Fordham/Proj-1)
+- [Quiz 2: 10/07 - study guide](https://docs.google.com/document/d/1dVEw0T5rDCFaZVHMhvZyIxU9wxyIHNNvcNlDyvCK7qM/edit?usp=sharing)
 
 ## 10/07
 
 - **QUIZ 2** given in class
 
-### Lab / Project
-
 ### Due
 
-#### Today
+#### Next Session / Upcoming
 
-#### Next Session
+- [Project Part 1 - due 10/09](https://github.com/CISC2200-Fall-24-Fordham/Proj-1)
 
 ## 10/09
 
@@ -250,6 +262,8 @@ If anything is marked as due on a given day, it is due at 11:59pm EST that day u
 ### Due
 
 #### Today
+
+- [Project Part 1 - due midnight EST](https://github.com/CISC2200-Fall-24-Fordham/Proj-1)
 
 #### Next Session
 

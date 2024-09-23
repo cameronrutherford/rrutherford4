@@ -29,6 +29,7 @@ repos:
     rev: v2.2.4
     hooks:
       - id: codespell
+        args: ["--skip=*.lock", "--skip=*.ipynb"]
   - repo: https://github.com/crate-ci/typos
     rev: v1.23.6
     hooks:
