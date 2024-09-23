@@ -28,6 +28,7 @@ website:
         menu:
           - text: "CISC2200 - Fall 24"
             href: class/cisc2200-fall24/index.qmd
+
       - text: "How To Guides"
         menu:
           - howto/shell.qmd

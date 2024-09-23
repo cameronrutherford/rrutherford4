@@ -5,6 +5,8 @@ format:
     default: true
 ---
 
+![Sarabi tried to help grade](./images/IMG_5610.jpeg)
+
 ## Page 1 Results
 
 {{< embed page1.ipynb#fig-page-1-breakdown >}}

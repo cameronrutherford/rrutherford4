@@ -12,7 +12,7 @@ repos:
         args: ["--fix=lf"]
         description: Forces to replace line ending by the UNIX 'lf' character.
       - id: check-added-large-files
-        args: ["--maxkb=500"]
+        args: ["--maxkb=3000"]
       - id: no-commit-to-branch
         args: [--branch, staging]
   - repo: https://github.com/adrienverge/yamllint
