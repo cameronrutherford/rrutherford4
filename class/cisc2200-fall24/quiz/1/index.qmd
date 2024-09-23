@@ -1,0 +1,50 @@
+---
+title: Quiz 1 Results / Review
+format:
+  html:
+    default: true
+---
+
+## Page 1 Results
+
+{{< embed page1.ipynb#fig-page-1-breakdown >}}
+
+### Page 1 totals
+
+{{< embed page1.ipynb#fig-page-1-totals >}}
+
+### After scaling
+
+{{< embed page1.ipynb#fig-page-1-scaled >}}
+
+## Page 2 Results
+
+{{< embed page2.ipynb#fig-page-2-breakdown >}}
+
+### Page 2 totals
+
+{{< embed page2.ipynb#fig-page-2-totals >}}
+
+### After scaling
+
+{{< embed page2.ipynb#fig-page-2-scaled >}}
+
+## Page 3 Results
+
+{{< embed page3.ipynb#fig-page-3-breakdown >}}
+
+### Page 3 totals
+
+{{< embed page3.ipynb#fig-page-3-totals >}}
+
+### After scaling
+
+{{< embed page3.ipynb#fig-page-3-scaled >}}
+
+## Total Results
+
+{{< embed totals.ipynb#fig-totals-raw >}}
+
+### After scaling
+
+{{< embed totals.ipynb#fig-totals-scaled >}}
