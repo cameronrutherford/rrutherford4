@@ -1,6 +1,25 @@
 [tool.poetry]
+# Not installing a package / developing a package, just managing complexity...
 package-mode = false
+name = "Fordham Website"
+version = "0.1.0"
+description = ""
+authors = ["cameronrutherford"]
 
+[tool.poetry.dependencies]
+python = "^3.11"
+numpy = "*"
+matplotlib = "*"
+jupyterlab = "^4.0.0"
+
+# Poe The Poet Configuration / Scripts
+
+# -- JupyterLab
+[tool.poe.tasks.jupyter]
+help = "Launch JupyterLab in the poetry venv"
+cmd = "jupyter lab"
+
+# -- Documentation
 [tool.poe.tasks.shell]
 help = "Run an interactive shell in the devcontainer"
 cmd = "docker run -it --rm -p 8080:8080 -u vscode -v $PWD:/home/app -w /home/app ghcr.io/cameronrutherford/quarto-ci:latest /bin/bash"
