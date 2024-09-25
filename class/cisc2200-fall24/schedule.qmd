@@ -169,7 +169,6 @@ If anything is marked as due on a given day, it is due at 11:59pm EST that day u
 - [Singly Linked List Sample Code II](https://github.com/CISC2200-Fall-24-Fordham/SLList-2)
   - [Rule of Three](https://www.codementor.io/@sandesh87/the-rule-of-five-in-c-1pdgpzb04f)
   - [Class Templates](https://cplusplus.com/doc/tutorial/templates/#class_templates)
-- [Doubly Linked List Slides](https://docs.google.com/presentation/d/1DLrlCbtJjImK8KRjjH3Xx9WBPciODBAl/edit?usp=sharing&ouid=115990634876478916795&rtpof=true&sd=true)
 
 ### Lab / Project
 
@@ -194,10 +193,15 @@ If anything is marked as due on a given day, it is due at 11:59pm EST that day u
 
 ### Content
 
-- [SLList Slides II](https://docs.google.com/presentation/d/1wUVNy2AEawiv5mm2-2GzppNAfelU__0i/edit?usp=sharing&ouid=115990634876478916795&rtpof=true&sd=true)
 - [Singly Linked List Sample Code II](https://github.com/CISC2200-Fall-24-Fordham/SLList-2)
-  - [Rule of Three](https://www.codementor.io/@sandesh87/the-rule-of-five-in-c-1pdgpzb04f)
-  - [Class Templates](https://cplusplus.com/doc/tutorial/templates/#class_templates)
+  - [Custom Iterators](https://www.internalpointers.com/post/writing-custom-iterators-modern-cpp)
+- [Rule of Three](https://www.codementor.io/@sandesh87/the-rule-of-five-in-c-1pdgpzb04f)
+  - Copy assignment vs. copy constructor (lets implement copy assignment)
+  - Do we need a destructor for our node class?
+- C++ is difficult because there are so many ways to do things
+  - CMake
+  - Testing Libraries
+  - Benchmarking libraries
 - [Doubly Linked List Slides](https://docs.google.com/presentation/d/1DLrlCbtJjImK8KRjjH3Xx9WBPciODBAl/edit?usp=sharing&ouid=115990634876478916795&rtpof=true&sd=true)
 
 ### Due
