@@ -7,8 +7,6 @@ format:
   revealjs:
     theme: beige
     slide-number: true
-    multiplex:
-      url: 'https://reveal-multiplex.glitch.me/'
     output-ext: reveal.html
     smaller: true
     toc: true

@@ -198,11 +198,49 @@ If anything is marked as due on a given day, it is due at 11:59pm EST that day u
 - [Rule of Three](https://www.codementor.io/@sandesh87/the-rule-of-five-in-c-1pdgpzb04f)
   - Copy assignment vs. copy constructor (lets implement copy assignment)
   - Do we need a destructor for our node class?
-- C++ is difficult because there are so many ways to do things
-  - CMake
-  - Testing Libraries
-  - Benchmarking libraries
 - [Doubly Linked List Slides](https://docs.google.com/presentation/d/1DLrlCbtJjImK8KRjjH3Xx9WBPciODBAl/edit?usp=sharing&ouid=115990634876478916795&rtpof=true&sd=true)
+
+#### Aside
+
+- C++ is difficult because there are so many ways to do things
+  - Standard Library:
+    - [STL](https://en.cppreference.com/w/cpp/header)
+    - [STL Algorithms](https://en.cppreference.com/w/cpp/algorithm)
+    - [STL Containers](https://en.cppreference.com/w/cpp/container)
+    - Other Third Party Libraries like [Boost](https://www.boost.org/)
+  - Build Systems:
+    - [CMake](https://cmake.org/features/)
+    - [Make](https://www.gnu.org/software/make/)
+    - [Bazel](https://bazel.build/)
+    - [Meson](https://mesonbuild.com/)
+    - [Ninja](https://ninja-build.org/)
+    - [Spack](https://spack.io/)
+  - Testing Libraries
+    - [Google Test](https://github.com/google/googletest)
+    - [DocTest](https://github.com/doctest/doctest)
+    - [Catch2](https://github.com/catchorg/Catch2)
+    - [CTest](https://cmake.org/cmake/help/latest/manual/ctest.1.html)
+  - Benchmarking libraries
+    - [Google Benchmark](https://github.com/google/benchmark)
+    - [NanoBench](https://nanobench.ankerl.com/)
+  - Profiling / debugging tools
+    - [Valgrind](http://valgrind.org/)
+    - [GDB](https://www.gnu.org/software/gdb/)
+    - [LLDB](https://lldb.llvm.org/)
+    - [Intel VTune](https://software.intel.com/content/www/us/en/develop/tools/oneapi/components/vtune-profiler.html)
+  - Documentation Generators:
+    - [Doxygen](https://www.doxygen.nl/index.html)
+    - [Sphinx](https://www.sphinx-doc.org/en/master/)
+  - Compiler variations:
+    - [GNU C Compiler](https://gcc.gnu.org/)
+    - [Clang](https://clang.llvm.org/)
+    - [Visual Studio](https://visualstudio.microsoft.com/)
+    - [Intel C++ Compiler](https://software.intel.com/content/www/us/en/develop/tools/oneapi/components/compiler.html)
+  - IDEs:
+    - [Visual Studio Code](https://code.visualstudio.com/)
+    - [CLion](https://www.jetbrains.com/clion/)
+    - [Eclipse](https://www.eclipse.org/)
+    - [XCode](https://developer.apple.com/xcode/)
 
 ### Due
 
