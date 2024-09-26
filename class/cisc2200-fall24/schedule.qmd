@@ -254,7 +254,7 @@ If anything is marked as due on a given day, it is due at 11:59pm EST that day u
 
 ### Content
 
-- Doubly Linked Lists
+- Doubly Linked Lists & Arrays
 
 ### Due
 
@@ -268,7 +268,7 @@ If anything is marked as due on a given day, it is due at 11:59pm EST that day u
 
 ### Content
 
-- Doubly Linked Lists & Array Review
+- AList Implementation, Dynamic resizing
 
 ### Due
 
@@ -309,8 +309,7 @@ If anything is marked as due on a given day, it is due at 11:59pm EST that day u
 
 #### Next Session
 
-- Quiz 2 Test Corrections due Friday 10/11
-- Project Part 1 due 10/23
+- Quiz 2 Test Corrections due Friday 10/11 midnight EST
 
 ## **COLUMBUS DAY**
 
@@ -318,7 +317,10 @@ If anything is marked as due on a given day, it is due at 11:59pm EST that day u
 
 ### Content
 
-- Array Lists, Resizing vs. SLLists slides
+- Inheritance
+- Stacks
+- Recursion
+- Quiz 3 review
 
 ### Lab / Project
 
@@ -330,9 +332,7 @@ If anything is marked as due on a given day, it is due at 11:59pm EST that day u
 
 ## 10/21
 
-### Content
-
-- AList, Lab3 and Project part 1
+- **QUIZ 3** given in class
 
 ### Lab / Project
 
@@ -346,6 +346,11 @@ If anything is marked as due on a given day, it is due at 11:59pm EST that day u
 
 ### Content
 
+- Quiz Review
+- Lab Review
+- Midterm review
+- Project review
+
 ### Lab / Project
 
 ### Due
@@ -357,6 +362,8 @@ If anything is marked as due on a given day, it is due at 11:59pm EST that day u
 #### Next Session
 
 ## 10/28
+
+- **MIDTERM**
 
 ### Content
 
@@ -374,6 +381,8 @@ If anything is marked as due on a given day, it is due at 11:59pm EST that day u
 
 ### Content
 
+- Sorted Lists
+
 ### Lab / Project
 
 ### Due
@@ -387,6 +396,8 @@ If anything is marked as due on a given day, it is due at 11:59pm EST that day u
 ## 11/04
 
 ### Content
+
+- Sets and Iterators
 
 ### Lab / Project
 
@@ -404,6 +415,8 @@ If anything is marked as due on a given day, it is due at 11:59pm EST that day u
 
 ### Content
 
+- Binary Search Trees and Maps
+
 ### Lab / Project
 
 ### Due
@@ -415,6 +428,8 @@ If anything is marked as due on a given day, it is due at 11:59pm EST that day u
 ## 11/11
 
 ### Content
+
+- BST and Maps in-class Lab
 
 ### Lab / Project
 
@@ -428,6 +443,9 @@ If anything is marked as due on a given day, it is due at 11:59pm EST that day u
 
 ### Content
 
+- Runtime Analysis (Big O Notation)
+- BST Performance
+
 ### Lab / Project
 
 ### Due
@@ -439,6 +457,8 @@ If anything is marked as due on a given day, it is due at 11:59pm EST that day u
 ## 11/18
 
 ### Content
+
+- Hashing
 
 ### Lab / Project
 
@@ -452,6 +472,8 @@ If anything is marked as due on a given day, it is due at 11:59pm EST that day u
 
 ### Content
 
+- Heaps and Priority Queues
+
 ### Lab / Project
 
 ### Due
@@ -463,6 +485,8 @@ If anything is marked as due on a given day, it is due at 11:59pm EST that day u
 ## 11/25
 
 ### Content
+
+- Tree/Graph Representations and Traversals
 
 ### Lab / Project
 
@@ -477,6 +501,8 @@ If anything is marked as due on a given day, it is due at 11:59pm EST that day u
 ## 12/02
 
 ### Content
+
+- Graph Algorithms Part II
 
 ### Lab / Project
 
@@ -493,6 +519,9 @@ If anything is marked as due on a given day, it is due at 11:59pm EST that day u
 
 ### Content
 
+- Final Review Part I
+- Extra content Part I
+
 ### Lab / Project
 
 ### Due
@@ -504,6 +533,9 @@ If anything is marked as due on a given day, it is due at 11:59pm EST that day u
 ## 12/09
 
 ### Content
+
+- Final Review Part II
+- Extra content Part II
 
 ### Lab / Project
 
