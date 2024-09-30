@@ -254,7 +254,14 @@ If anything is marked as due on a given day, it is due at 11:59pm EST that day u
 
 ### Content
 
-- Doubly Linked Lists & Arrays
+- [Doubly Linked List Slides](https://docs.google.com/presentation/d/1DLrlCbtJjImK8KRjjH3Xx9WBPciODBAl/edit?usp=sharing&ouid=115990634876478916795&rtpof=true&sd=true)
+- [DLList Sample Code](https://github.com/CISC2200-Fall-24-Fordham/DLList)
+- [What is the C / C++ Standard Library?](https://www.internalpointers.com/post/c-c-standard-library)
+- Rule of Five (BONUS):
+  - [Move Constructor Confusion](https://stackoverflow.com/questions/27497830/move-constructor-and-stdmove-confusion)
+  - [Understanding lvalues and rvalues](https://www.internalpointers.com/post/understanding-meaning-lvalues-and-rvalues-c)
+  - [Move Semantics for beginners](https://www.internalpointers.com/post/c-rvalue-references-and-move-semantics-beginners)
+  - [Smart Pointers](https://www.internalpointers.com/post/beginner-s-look-smart-pointers-modern-c)
 
 ### Due
 
