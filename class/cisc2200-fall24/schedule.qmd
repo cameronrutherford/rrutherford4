@@ -275,7 +275,14 @@ If anything is marked as due on a given day, it is due at 11:59pm EST that day u
 
 ### Content
 
-- AList Implementation, Dynamic resizing
+- [AList Implementation, Dynamic resizing](https://docs.google.com/presentation/d/1kGW3fz27YXg_aBXtlU3FH5h218POvAk0/edit?usp=sharing&ouid=115990634876478916795&rtpof=true&sd=true)
+- [AList Sample Code](https://github.com/CISC2200-Fall-24-Fordham/AList)
+- [Lab3: Array List - due 10/16](https://github.com/CISC2200-Fall-24-Fordham/Lab3)
+- BONUS:
+  - [Code Review of modern Vector Implementation](https://codereview.stackexchange.com/questions/116377/vector-implementation-c)
+  - [When to use arrays vs. vectors vs. lists](https://www.reddit.com/r/cpp_questions/comments/5lqm5w/when_to_use_arrays_vs_vectors_vs_lists/)
+  - [Are Lists Evil?](https://isocpp.org/blog/2014/06/stroustrup-lists)
+  - [Big O Notation CheatSheet](https://bigocheatsheet.com/)
 
 ### Due
 
@@ -287,6 +294,7 @@ If anything is marked as due on a given day, it is due at 11:59pm EST that day u
 
 - [Project Part 1 - due 10/09](https://github.com/CISC2200-Fall-24-Fordham/Proj-1)
 - [Quiz 2: 10/07 - study guide](https://docs.google.com/document/d/1dVEw0T5rDCFaZVHMhvZyIxU9wxyIHNNvcNlDyvCK7qM/edit?usp=sharing)
+- [Lab3: Array List - due 10/16](https://github.com/CISC2200-Fall-24-Fordham/Lab3)
 
 ## 10/07
 
@@ -297,6 +305,7 @@ If anything is marked as due on a given day, it is due at 11:59pm EST that day u
 #### Next Session / Upcoming
 
 - [Project Part 1 - due 10/09](https://github.com/CISC2200-Fall-24-Fordham/Proj-1)
+- [Lab3: Array List - due 10/16](https://github.com/CISC2200-Fall-24-Fordham/Lab3)
 
 ## 10/09
 
@@ -317,6 +326,7 @@ If anything is marked as due on a given day, it is due at 11:59pm EST that day u
 #### Next Session
 
 - Quiz 2 Test Corrections due Friday 10/11 midnight EST
+- [Lab3: Array List - due 10/16](https://github.com/CISC2200-Fall-24-Fordham/Lab3)
 
 ## **COLUMBUS DAY**
 
@@ -334,6 +344,8 @@ If anything is marked as due on a given day, it is due at 11:59pm EST that day u
 ### Due
 
 #### Today
+
+- [Lab3: Array List - due midnight EST](https://github.com/CISC2200-Fall-24-Fordham/Lab3)
 
 #### Next Session
 
