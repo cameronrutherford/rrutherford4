@@ -173,7 +173,7 @@ If anything is marked as due on a given day, it is due at 11:59pm EST that day u
 ### Lab / Project
 
 - [Lab 2: Singly Linked Lists - due 10/02](https://github.com/CISC2200-Fall-24-Fordham/Lab2)
-- [Project Part 1 - due 10/09](https://github.com/CISC2200-Fall-24-Fordham/Proj-1)
+- [Project Part 1 - due 10/13](https://github.com/CISC2200-Fall-24-Fordham/Proj-1)
   - [Project: Simple Expression Evaluator Overview](https://docs.google.com/presentation/d/19jkySeLhxxQ9n7AQXN3KEHtNo26_Grhy/edit?usp=sharing&ouid=115990634876478916795&rtpof=true&sd=true)
   - [Part 1 Instructions](https://cisc2200.github.io/proj-part1/)
 
@@ -186,7 +186,7 @@ If anything is marked as due on a given day, it is due at 11:59pm EST that day u
   - Email me about clarifications on the quiz
   - Email me about Lab1 0/30
 - [Lab 2: Singly Linked Lists - due 10/02](https://github.com/CISC2200-Fall-24-Fordham/Lab2)
-- [Project Part 1 - due 10/09](https://github.com/CISC2200-Fall-24-Fordham/Proj-1)
+- [Project Part 1 - due 10/13](https://github.com/CISC2200-Fall-24-Fordham/Proj-1)
 - [Quiz 2: 10/07 - study guide](https://docs.google.com/document/d/1dVEw0T5rDCFaZVHMhvZyIxU9wxyIHNNvcNlDyvCK7qM/edit?usp=sharing)
 
 ## 09/25
@@ -247,7 +247,7 @@ If anything is marked as due on a given day, it is due at 11:59pm EST that day u
 #### Next Session / Upcoming
 
 - [Lab 2: Singly Linked Lists - due 10/02](https://github.com/CISC2200-Fall-24-Fordham/Lab2)
-- [Project Part 1 - due 10/09](https://github.com/CISC2200-Fall-24-Fordham/Proj-1)
+- [Project Part 1 - due 10/13](https://github.com/CISC2200-Fall-24-Fordham/Proj-1)
 - [Quiz 2: 10/07 - study guide](https://docs.google.com/document/d/1dVEw0T5rDCFaZVHMhvZyIxU9wxyIHNNvcNlDyvCK7qM/edit?usp=sharing)
 
 ## 09/30
@@ -268,7 +268,7 @@ If anything is marked as due on a given day, it is due at 11:59pm EST that day u
 #### Next Session / Upcoming
 
 - [Lab 2: Singly Linked Lists - due 10/02](https://github.com/CISC2200-Fall-24-Fordham/Lab2)
-- [Project Part 1 - due 10/09](https://github.com/CISC2200-Fall-24-Fordham/Proj-1)
+- [Project Part 1 - due 10/13](https://github.com/CISC2200-Fall-24-Fordham/Proj-1)
 - [Quiz 2: 10/07 - study guide](https://docs.google.com/document/d/1dVEw0T5rDCFaZVHMhvZyIxU9wxyIHNNvcNlDyvCK7qM/edit?usp=sharing)
 
 ## 10/02
@@ -292,7 +292,7 @@ If anything is marked as due on a given day, it is due at 11:59pm EST that day u
 
 #### Next Session / Upcoming
 
-- [Project Part 1 - due 10/09](https://github.com/CISC2200-Fall-24-Fordham/Proj-1)
+- [Project Part 1 - due 10/13](https://github.com/CISC2200-Fall-24-Fordham/Proj-1)
 - [Quiz 2: 10/07 - study guide](https://docs.google.com/document/d/1dVEw0T5rDCFaZVHMhvZyIxU9wxyIHNNvcNlDyvCK7qM/edit?usp=sharing)
 - [Lab3: Array List - due 10/16](https://github.com/CISC2200-Fall-24-Fordham/Lab3)
 
@@ -304,7 +304,7 @@ If anything is marked as due on a given day, it is due at 11:59pm EST that day u
 
 #### Next Session / Upcoming
 
-- [Project Part 1 - due 10/09](https://github.com/CISC2200-Fall-24-Fordham/Proj-1)
+- [Project Part 1 - due 10/13](https://github.com/CISC2200-Fall-24-Fordham/Proj-1)
   - [Part 1 Instructions](https://cisc2200.github.io/proj-part1/)
 - [Lab3: Array List - due 10/16](https://github.com/CISC2200-Fall-24-Fordham/Lab3)
 - [Quiz 3: 10/21 - study guide](https://docs.google.com/document/d/14wCUimC5R58kmr0A43jllbdcgqITEk18t9wb5H93zUw/edit?usp=sharing)
@@ -315,7 +315,7 @@ If anything is marked as due on a given day, it is due at 11:59pm EST that day u
 
 - Quiz 1 and Quiz 2 review
 - DLL and Array Review
-- [Project Part 1 - due 10/09](https://github.com/CISC2200-Fall-24-Fordham/Proj-1)
+- [Project Part 1 - due 10/13](https://github.com/CISC2200-Fall-24-Fordham/Proj-1)
   - [Part 1 Instructions](https://cisc2200.github.io/proj-part1/)
 
 ### Lab / Project
