@@ -111,7 +111,7 @@ If anything is marked as due on a given day, it is due at 11:59pm EST that day u
 
 ### Due
 
-#### Next Session
+#### Next Session / Upcoming
 
 - 09/13: Round 1 attendance reports due
 - [Lab 1: IntArray](https://github.com/CISC2200-Fall-24-Fordham/Lab1) - due 09/18
@@ -305,7 +305,9 @@ If anything is marked as due on a given day, it is due at 11:59pm EST that day u
 #### Next Session / Upcoming
 
 - [Project Part 1 - due 10/09](https://github.com/CISC2200-Fall-24-Fordham/Proj-1)
+  - [Part 1 Instructions](https://cisc2200.github.io/proj-part1/)
 - [Lab3: Array List - due 10/16](https://github.com/CISC2200-Fall-24-Fordham/Lab3)
+- [Quiz 3: 10/21 - study guide](https://docs.google.com/document/d/14wCUimC5R58kmr0A43jllbdcgqITEk18t9wb5H93zUw/edit?usp=sharing)
 
 ## 10/09
 
@@ -313,7 +315,8 @@ If anything is marked as due on a given day, it is due at 11:59pm EST that day u
 
 - Quiz 1 and Quiz 2 review
 - DLL and Array Review
-- Project: Simple Expression Evaluator Overview Part 1
+- [Project Part 1 - due 10/09](https://github.com/CISC2200-Fall-24-Fordham/Proj-1)
+  - [Part 1 Instructions](https://cisc2200.github.io/proj-part1/)
 
 ### Lab / Project
 
@@ -323,10 +326,11 @@ If anything is marked as due on a given day, it is due at 11:59pm EST that day u
 
 - [Project Part 1 - due midnight EST](https://github.com/CISC2200-Fall-24-Fordham/Proj-1)
 
-#### Next Session
+#### Next Session / Upcoming
 
 - Quiz 2 Test Corrections due Friday 10/11 midnight EST
 - [Lab3: Array List - due 10/16](https://github.com/CISC2200-Fall-24-Fordham/Lab3)
+- [Quiz 3: 10/21 - study guide](https://docs.google.com/document/d/14wCUimC5R58kmr0A43jllbdcgqITEk18t9wb5H93zUw/edit?usp=sharing)
 
 ## **COLUMBUS DAY**
 
@@ -334,10 +338,11 @@ If anything is marked as due on a given day, it is due at 11:59pm EST that day u
 
 ### Content
 
-- Inheritance
-- Stacks
-- Recursion
+- [Inheritance](https://docs.google.com/presentation/d/1hajhN4wtebvWHZ1C0KN3ETvk92TYycap/edit?usp=sharing&ouid=115990634876478916795&rtpof=true&sd=true)
+- [Stacks](https://docs.google.com/presentation/d/1_wqD17OjCP33Jk66IM9tS-5kGfwq8D4V/edit?usp=sharing&ouid=115990634876478916795&rtpof=true&sd=true)
+- [Recursion](https://docs.google.com/presentation/d/1YN2__DwgsPFejUZ0AjfPHkwnsqCHhJC6/edit?usp=sharing&ouid=115990634876478916795&rtpof=true&sd=true)
 - Quiz 3 review
+  - [Quiz 3: 10/21 - study guide](https://docs.google.com/document/d/14wCUimC5R58kmr0A43jllbdcgqITEk18t9wb5H93zUw/edit?usp=sharing)
 
 ### Lab / Project
 
@@ -347,7 +352,9 @@ If anything is marked as due on a given day, it is due at 11:59pm EST that day u
 
 - [Lab3: Array List - due midnight EST](https://github.com/CISC2200-Fall-24-Fordham/Lab3)
 
-#### Next Session
+#### Next Session / Upcoming
+
+- [Quiz 3: 10/21 - study guide](https://docs.google.com/document/d/14wCUimC5R58kmr0A43jllbdcgqITEk18t9wb5H93zUw/edit?usp=sharing)
 
 ## 10/21
 
@@ -359,7 +366,7 @@ If anything is marked as due on a given day, it is due at 11:59pm EST that day u
 
 #### Today
 
-#### Next Session
+#### Next Session / Upcoming
 
 ## 10/23
 
@@ -376,9 +383,7 @@ If anything is marked as due on a given day, it is due at 11:59pm EST that day u
 
 #### Today
 
-- Project part 1
-
-#### Next Session
+#### Next Session / Upcoming
 
 ## 10/28
 
@@ -392,7 +397,7 @@ If anything is marked as due on a given day, it is due at 11:59pm EST that day u
 
 #### Today
 
-#### Next Session
+#### Next Session / Upcoming
 
 - 10/29: Mid-semester evaluations due
 
@@ -408,7 +413,7 @@ If anything is marked as due on a given day, it is due at 11:59pm EST that day u
 
 #### Today
 
-#### Next Session
+#### Next Session / Upcoming
 
 - 11/04: Round 2 attendance reports due
 
@@ -426,7 +431,7 @@ If anything is marked as due on a given day, it is due at 11:59pm EST that day u
 
 - Late Semester Student Attendance due
 
-#### Next Session
+#### Next Session / Upcoming
 
 - 11/05: Vote!!!
 
@@ -442,7 +447,7 @@ If anything is marked as due on a given day, it is due at 11:59pm EST that day u
 
 #### Today
 
-#### Next Session
+#### Next Session / Upcoming
 
 ## 11/11
 
@@ -456,7 +461,7 @@ If anything is marked as due on a given day, it is due at 11:59pm EST that day u
 
 #### Today
 
-#### Next Session
+#### Next Session / Upcoming
 
 ## 11/13
 
@@ -471,7 +476,7 @@ If anything is marked as due on a given day, it is due at 11:59pm EST that day u
 
 #### Today
 
-#### Next Session
+#### Next Session / Upcoming
 
 ## 11/18
 
@@ -485,7 +490,7 @@ If anything is marked as due on a given day, it is due at 11:59pm EST that day u
 
 #### Today
 
-#### Next Session
+#### Next Session / Upcoming
 
 ## 11/20
 
@@ -499,7 +504,7 @@ If anything is marked as due on a given day, it is due at 11:59pm EST that day u
 
 #### Today
 
-#### Next Session
+#### Next Session / Upcoming
 
 ## 11/25
 
@@ -513,7 +518,7 @@ If anything is marked as due on a given day, it is due at 11:59pm EST that day u
 
 #### Today
 
-#### Next Session
+#### Next Session / Upcoming
 
 ## **THANKSGIVING**
 
@@ -532,7 +537,7 @@ If anything is marked as due on a given day, it is due at 11:59pm EST that day u
 - Last day for designating a course Pass/Fail
 - Last day to withdraw from a course without incurring a WF
 
-#### Next Session
+#### Next Session / Upcoming
 
 ## 12/04
 
@@ -547,7 +552,7 @@ If anything is marked as due on a given day, it is due at 11:59pm EST that day u
 
 #### Today
 
-#### Next Session
+#### Next Session / Upcoming
 
 ## 12/09
 
@@ -562,7 +567,7 @@ If anything is marked as due on a given day, it is due at 11:59pm EST that day u
 
 #### Today
 
-#### Next Session
+#### Next Session / Upcoming
 
 - 12/10: Last Day of Classes...
 
