@@ -119,7 +119,7 @@ Final grade is based on the weighted sum of the following course works, **with t
 Quizzes will be given in-class, using pen-and-paper. If you are unable to attend class,
 you have a few options:
 
-* Attend Office hours to do make-up quizz
+* Attend Office hours to do make-up quiz
 * Schedule an additional office hours to make-up quiz
 * Take quiz over zoom
 
@@ -145,6 +145,14 @@ $$ f(x, y) = x + (1 - x) * (\frac{y}{2}) $$
 So, for example, say you have a $70\%$, and you get $100\%$ on your test corrections, you would end up with:
 
 $$ f(0.7, 1) = 0.7 + (1 - 0.7) * \frac{1}{2} \\ = 0.7 + (0.3) * (0.5) \\ = 0.85 $$
+
+::: {.callout-tip}
+## Extra Credit
+
+If you submit your test corrections and you ended up with 0.5 points, your score will be rounded up.
+Any extra credit questions on the test will not be eligible for test corrections.
+:::
+
 
 ## Office of Disability Services
 
