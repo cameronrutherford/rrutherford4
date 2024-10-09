@@ -313,22 +313,36 @@ If anything is marked as due on a given day, it is due at 11:59pm EST that day u
 
 ### Content
 
-- Quiz 1 and Quiz 2 review
-- DLL and Array Review
-- [Project Part 1 - due 10/13](https://github.com/CISC2200-Fall-24-Fordham/Proj-1)
-  - [Part 1 Instructions](https://cisc2200.github.io/proj-part1/)
+- [Inheritance](https://docs.google.com/presentation/d/1hajhN4wtebvWHZ1C0KN3ETvk92TYycap/edit?usp=sharing&ouid=115990634876478916795&rtpof=true&sd=true)
+- [Stacks](https://docs.google.com/presentation/d/1_wqD17OjCP33Jk66IM9tS-5kGfwq8D4V/edit?usp=sharing&ouid=115990634876478916795&rtpof=true&sd=true)
+- [Recursion](https://docs.google.com/presentation/d/1YN2__DwgsPFejUZ0AjfPHkwnsqCHhJC6/edit?usp=sharing&ouid=115990634876478916795&rtpof=true&sd=true)
+- Quiz 3 review
+  - [Quiz 3: 10/21 - study guide](https://docs.google.com/document/d/14wCUimC5R58kmr0A43jllbdcgqITEk18t9wb5H93zUw/edit?usp=sharing)
 
-### Lab / Project
+#### Bonus Content
+
+- LeetCode Practice **easy**
+  - [Baseball game](https://leetcode.com/problems/baseball-game/description/)
+  - [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/)
+  - [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)
+- LeetCode Practice **medium**
+  - [Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/)
+  - [Flatten Nested List Iterator](https://leetcode.com/problems/flatten-nested-list-iterator/)
+- LeetCode Practice **hard**
+  - [Maximum Score of a Good Subarray](https://leetcode.com/problems/maximum-score-of-a-good-subarray/)
+  - [Find Buildings where Alice and Bob can meet](https://leetcode.com/problems/find-building-where-alice-and-bob-can-meet/description/)
+- Supplemental Reading
+  - [MSFT Inheritance in C++](https://learn.microsoft.com/en-us/cpp/cpp/inheritance-cpp?view=msvc-170)
+  - [Bags, Queues and Stacks](https://algs4.cs.princeton.edu/13stacks/) - over 60 practice exercises!
+  - [Stack and Heap Memory](https://courses.grainger.illinois.edu/cs225/fa2022/resources/stack-heap/)
+  - [Recursion](https://jeffe.cs.illinois.edu/teaching/algorithms/book/01-recursion.pdf) - 70 pages...
+  - [Recursion 101 from Medium](https://betterprogramming.pub/recursion-101-a5e18158c66f)
 
 ### Due
 
-#### Today
-
-- [Project Part 1 - due midnight EST](https://github.com/CISC2200-Fall-24-Fordham/Proj-1)
-
 #### Next Session / Upcoming
 
-- Quiz 2 Test Corrections due Friday 10/11 midnight EST
+- [Project Part 1 - due 10/13](https://github.com/CISC2200-Fall-24-Fordham/Proj-1)
 - [Lab3: Array List - due 10/16](https://github.com/CISC2200-Fall-24-Fordham/Lab3)
 - [Quiz 3: 10/21 - study guide](https://docs.google.com/document/d/14wCUimC5R58kmr0A43jllbdcgqITEk18t9wb5H93zUw/edit?usp=sharing)
 
@@ -338,9 +352,9 @@ If anything is marked as due on a given day, it is due at 11:59pm EST that day u
 
 ### Content
 
-- [Inheritance](https://docs.google.com/presentation/d/1hajhN4wtebvWHZ1C0KN3ETvk92TYycap/edit?usp=sharing&ouid=115990634876478916795&rtpof=true&sd=true)
-- [Stacks](https://docs.google.com/presentation/d/1_wqD17OjCP33Jk66IM9tS-5kGfwq8D4V/edit?usp=sharing&ouid=115990634876478916795&rtpof=true&sd=true)
-- [Recursion](https://docs.google.com/presentation/d/1YN2__DwgsPFejUZ0AjfPHkwnsqCHhJC6/edit?usp=sharing&ouid=115990634876478916795&rtpof=true&sd=true)
+- Quiz 1 and Quiz 2 review
+- Project Part 2 - due 11/04
+- DLL and Array Review
 - Quiz 3 review
   - [Quiz 3: 10/21 - study guide](https://docs.google.com/document/d/14wCUimC5R58kmr0A43jllbdcgqITEk18t9wb5H93zUw/edit?usp=sharing)
 
