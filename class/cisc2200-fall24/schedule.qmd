@@ -353,7 +353,7 @@ If anything is marked as due on a given day, it is due at 11:59pm EST that day u
 ### Content
 
 - Quiz 1 and Quiz 2 review
-- Project Part 2 - due 11/04
+- Project Part 2 - due 11/15
 - DLL and Array Review
 - Quiz 3 review
   - [Quiz 3: 10/21 - study guide](https://docs.google.com/document/d/14wCUimC5R58kmr0A43jllbdcgqITEk18t9wb5H93zUw/edit?usp=sharing)
@@ -369,6 +369,7 @@ If anything is marked as due on a given day, it is due at 11:59pm EST that day u
 #### Next Session / Upcoming
 
 - [Quiz 3: 10/21 - study guide](https://docs.google.com/document/d/14wCUimC5R58kmr0A43jllbdcgqITEk18t9wb5H93zUw/edit?usp=sharing)
+- [Project Part 2 - due 11/15](https://github.com/CISC2200-Fall-24-Fordham/Proj-2)
 
 ## 10/21
 
@@ -381,6 +382,8 @@ If anything is marked as due on a given day, it is due at 11:59pm EST that day u
 #### Today
 
 #### Next Session / Upcoming
+
+- [Project Part 2 - due 11/15](https://github.com/CISC2200-Fall-24-Fordham/Proj-2)
 
 ## 10/23
 
@@ -399,6 +402,8 @@ If anything is marked as due on a given day, it is due at 11:59pm EST that day u
 
 #### Next Session / Upcoming
 
+- [Project Part 2 - due 11/15](https://github.com/CISC2200-Fall-24-Fordham/Proj-2)
+
 ## 10/28
 
 - **MIDTERM**
@@ -413,6 +418,7 @@ If anything is marked as due on a given day, it is due at 11:59pm EST that day u
 
 #### Next Session / Upcoming
 
+- [Project Part 2 - due 11/15](https://github.com/CISC2200-Fall-24-Fordham/Proj-2)
 - 10/29: Mid-semester evaluations due
 
 ## 10/30
@@ -430,6 +436,7 @@ If anything is marked as due on a given day, it is due at 11:59pm EST that day u
 #### Next Session / Upcoming
 
 - 11/04: Round 2 attendance reports due
+- [Project Part 2 - due 11/15](https://github.com/CISC2200-Fall-24-Fordham/Proj-2)
 
 ## 11/04
 
@@ -448,6 +455,7 @@ If anything is marked as due on a given day, it is due at 11:59pm EST that day u
 #### Next Session / Upcoming
 
 - 11/05: Vote!!!
+- [Project Part 2 - due 11/15](https://github.com/CISC2200-Fall-24-Fordham/Proj-2)
 
 ## 11/06
 
@@ -463,6 +471,8 @@ If anything is marked as due on a given day, it is due at 11:59pm EST that day u
 
 #### Next Session / Upcoming
 
+- [Project Part 2 - due 11/15](https://github.com/CISC2200-Fall-24-Fordham/Proj-2)
+
 ## 11/11
 
 ### Content
@@ -476,6 +486,8 @@ If anything is marked as due on a given day, it is due at 11:59pm EST that day u
 #### Today
 
 #### Next Session / Upcoming
+
+- [Project Part 2 - due 11/15](https://github.com/CISC2200-Fall-24-Fordham/Proj-2)
 
 ## 11/13
 
@@ -491,6 +503,8 @@ If anything is marked as due on a given day, it is due at 11:59pm EST that day u
 #### Today
 
 #### Next Session / Upcoming
+
+- [Project Part 2 - due 11/15](https://github.com/CISC2200-Fall-24-Fordham/Proj-2)
 
 ## 11/18
 
