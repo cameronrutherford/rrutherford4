@@ -390,9 +390,12 @@ If anything is marked as due on a given day, it is due at 11:59pm EST that day u
 ### Content
 
 - Quiz Review
+  - [Quiz 1 Study Guide](https://docs.google.com/document/d/1hzwxkHhTrzqFQrr6YJNpGAaOq11AjvNoqIYvWn3NaEI/edit?usp=sharing)
+  - [Quiz 2 Study Guide](https://docs.google.com/document/d/1dVEw0T5rDCFaZVHMhvZyIxU9wxyIHNNvcNlDyvCK7qM/edit?usp=sharing)
+  - [Quiz 3 Study Guide](https://docs.google.com/document/d/14wCUimC5R58kmr0A43jllbdcgqITEk18t9wb5H93zUw/edit?usp=sharing)
 - Lab Review
 - Midterm review
-- Project review
+  - Kahoot!
 
 ### Lab / Project
 
