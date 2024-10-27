@@ -129,8 +129,6 @@ slightly to avoid potential issues with sharing test material.
 For all Quizzes, Midterms and Finals, you will be allowed one a4 piece of paper with hand-written notes.
 You will turn this in (if you used one) with your quiz / exam, and it will be returned with your graded quiz / exam.
 
-For the midterm / final exam, you are permitted all previous cheat sheets, along with one additional A4 page of notes.
-
 #### Quiz / Midterm corrections
 
 Excluding the final exam (the final exam may be curved if necessary), test corrections will
