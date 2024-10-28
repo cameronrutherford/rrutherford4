@@ -415,12 +415,15 @@ If anything is marked as due on a given day, it is due at 11:59pm EST that day u
 
 ### Lab / Project
 
+- [Lab 5: Sorted Lists - due 11/06](https://github.com/CISC2200-Fall-24-Fordham/Lab5)
+
 ### Due
 
 #### Today
 
 #### Next Session / Upcoming
 
+- [Lab 5: Sorted Lists - due 11/06](https://github.com/CISC2200-Fall-24-Fordham/Lab5)
 - [Project Part 2 - due 11/15](https://github.com/CISC2200-Fall-24-Fordham/Proj-2)
 - 10/29: Mid-semester evaluations due
 
@@ -438,6 +441,7 @@ If anything is marked as due on a given day, it is due at 11:59pm EST that day u
 
 #### Next Session / Upcoming
 
+- [Lab 5: Sorted Lists - due 11/06](https://github.com/CISC2200-Fall-24-Fordham/Lab5)
 - 11/04: Round 2 attendance reports due
 - [Project Part 2 - due 11/15](https://github.com/CISC2200-Fall-24-Fordham/Proj-2)
 
@@ -458,6 +462,7 @@ If anything is marked as due on a given day, it is due at 11:59pm EST that day u
 #### Next Session / Upcoming
 
 - 11/05: Vote!!!
+- [Lab 5: Sorted Lists - due 11/06](https://github.com/CISC2200-Fall-24-Fordham/Lab5)
 - [Project Part 2 - due 11/15](https://github.com/CISC2200-Fall-24-Fordham/Proj-2)
 
 ## 11/06
@@ -471,6 +476,8 @@ If anything is marked as due on a given day, it is due at 11:59pm EST that day u
 ### Due
 
 #### Today
+
+- [Lab 5: Sorted Lists - due 11/06](https://github.com/CISC2200-Fall-24-Fordham/Lab5)
 
 #### Next Session / Upcoming
 
