@@ -411,19 +411,10 @@ If anything is marked as due on a given day, it is due at 11:59pm EST that day u
 
 - **MIDTERM**
 
-### Content
-
-### Lab / Project
-
-- [Lab 5: Sorted Lists - due 11/06](https://github.com/CISC2200-Fall-24-Fordham/Lab5)
-
 ### Due
-
-#### Today
 
 #### Next Session / Upcoming
 
-- [Lab 5: Sorted Lists - due 11/06](https://github.com/CISC2200-Fall-24-Fordham/Lab5)
 - [Project Part 2 - due 11/15](https://github.com/CISC2200-Fall-24-Fordham/Proj-2)
 - 10/29: Mid-semester evaluations due
 
@@ -431,13 +422,19 @@ If anything is marked as due on a given day, it is due at 11:59pm EST that day u
 
 ### Content
 
-- Sorted Lists
+- [Play Guess My Number](https://www.mathsisfun.com/games/guess_number.html)
+- [Sorted Lists Slides](https://docs.google.com/presentation/d/1qi1sidb5D85LXXlFwV3R_XnHnM05uaiX/edit?usp=sharing&ouid=115990634876478916795&rtpof=true&sd=true)
+- [Sorted List Wikipedia](https://en.wikipedia.org/wiki/Sorted_array)
+- Searching Algorithms:
+  - [Linear Search](https://en.wikipedia.org/wiki/Linear_search)
+  - [Binary Search](https://en.wikipedia.org/wiki/Binary_search)
+  - [Fibonacci Search](https://en.wikipedia.org/wiki/Fibonacci_search_technique)
 
 ### Lab / Project
 
-### Due
+- [Lab 5: Sorted Lists - due 11/06](https://github.com/CISC2200-Fall-24-Fordham/Lab5)
 
-#### Today
+### Due
 
 #### Next Session / Upcoming
 
