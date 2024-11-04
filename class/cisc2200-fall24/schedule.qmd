@@ -446,7 +446,16 @@ If anything is marked as due on a given day, it is due at 11:59pm EST that day u
 
 ### Content
 
-- Sets and Iterators
+- [Sets, Iterators and Sorting Slides](https://docs.google.com/presentation/d/1jujWropUdrrLmhRjjOPB1vtCgHRIxrFb/edit?usp=sharing&ouid=115990634876478916795&rtpof=true&sd=true)
+- [Sorting Algorithm Wikipedia](https://en.wikipedia.org/wiki/Sorting_algorithm)
+- [Shuffling Algorithms Wikipedia](https://en.wikipedia.org/wiki/Shuffling#Algorithms)
+- What happens when we only have limited comparisons? (Related algorithms)
+  - [Ranking (information retrieval)](https://en.wikipedia.org/wiki/Ranking_(information_retrieval))
+  - [Machine Learned Ranking (MLR)](https://en.wikipedia.org/wiki/Learning_to_rank)
+  - [Semantic Search](https://en.wikipedia.org/wiki/Semantic_search)
+  - [Tournaments](https://en.wikipedia.org/wiki/Tournament), fairness, and [Tournament Selection](https://en.wikipedia.org/wiki/Tournament_selection)
+  - [Elo rating system](https://en.wikipedia.org/wiki/Elo_rating_system)
+  - [Electoral Systems](https://en.wikipedia.org/wiki/Electoral_system)
 
 ### Lab / Project
 
