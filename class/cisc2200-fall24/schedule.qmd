@@ -475,9 +475,13 @@ If anything is marked as due on a given day, it is due at 11:59pm EST that day u
 
 ### Content
 
-- Binary Search Trees and Maps
+- [Binary Search Trees and Maps](https://docs.google.com/presentation/d/1Fg5r9bJvHLRRXjv8BDDv2zpAAVqF6Cce/edit?usp=sharing&ouid=115990634876478916795&rtpof=true&sd=true) - try commenting on the slides!
+- [The Art of Computer Programming: pp 298-305, 308-316](https://drive.google.com/file/d/1Y3fU8XSsneBmjq4d1OMNU_z9agB4epwU/view?usp=sharing)
+  - [Orthogonal Lists OneNote](https://1drv.ms/o/c/4ef2e1eeb9fc1907/EiYfjzgcrHBPgUG_jLXZ1eEB0kGwqaLUcA2AVup58ne2Cw)
+  - [Trees OneNote](https://1drv.ms/o/c/4ef2e1eeb9fc1907/EiYfjzgcrHBPgUG_jLXZ1eEB0kGwqaLUcA2AVup58ne2Cw)
 
-### Lab / Project
+Wikipedia links / rabbit hole:
+- [List of Data Structures](https://en.wikipedia.org/wiki/List_of_data_structures)
 
 ### Due
 
