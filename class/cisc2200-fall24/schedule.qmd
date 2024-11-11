@@ -497,13 +497,11 @@ Wikipedia links / rabbit hole:
 
 ### Content
 
-- BST and Maps in-class Lab
-
-### Lab / Project
+- [Binary Search Trees and Maps](https://docs.google.com/presentation/d/1Fg5r9bJvHLRRXjv8BDDv2zpAAVqF6Cce/edit?usp=sharing&ouid=115990634876478916795&rtpof=true&sd=true) - try commenting on the slides!
+- [Tree Traversal Techniques](https://www.geeksforgeeks.org/tree-traversals-inorder-preorder-and-postorder/#) - [Video Form](https://www.youtube.com/watch?v=IpyCqRmaKW4&ab_channel=GeeksforGeeks)
+- [Algorithmic Complexity](https://docs.google.com/presentation/d/1RXmVWwuUUTQO4djRnEob10vBjlzf7iA5/edit?usp=sharing&ouid=115990634876478916795&rtpof=true&sd=true) - [5 minute video](https://www.youtube.com/watch?v=__vX2sjlpXU&ab_channel=MichaelSambol)
 
 ### Due
-
-#### Today
 
 #### Next Session / Upcoming
 
