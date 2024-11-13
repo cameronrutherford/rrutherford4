@@ -1,6 +1,10 @@
 ---
 name: Documentation Publish
 
+env:
+  # yamllint disable-line rule:line-length
+  DEBUG_IMAGE_SHA: ghcr.io/cameronrutherford/quarto-ci@sha256:e711e6271819961e0ab79265da7eed0f16c42803eda87e6155eea8f164f31477
+
 "on":
   workflow_dispatch:
   push:
@@ -11,29 +15,19 @@ jobs:
   publish-docs:
     runs-on: ubuntu-latest
     container:
-      image: ghcr.io/cameronrutherford/quarto-ci
+      image: ${{ env.DEBUG_IMAGE_SHA }}
     permissions:
-      contents: write
+      contents: read
     steps:
       - name: Check out repository
         uses: actions/checkout@v4
+
       - name: Quarto Render
         run: quarto render
-      - name: Setup SSH keys
-        env:
-          SSH_PRIVATE_KEY: ${{ secrets.SSH_PRIVATE_KEY }}
-          SSH_KNOWN_HOSTS: ${{ secrets.SSH_KNOWN_HOSTS }}
-        run: |
-          mkdir -p ~/.ssh
-          echo "$SSH_PRIVATE_KEY" > ../private.key
-          sudo chmod 600 ../private.key
-          echo "$SSH_KNOWN_HOSTS" > ../known_hosts
-      - name: Deploy site
-        env:
-          SSH_KEY_PATH: ${{ github.workspace }}/../private.key
-          SSH_KNOWN_HOSTS_PATH: ${{ github.workspace }}/../known_hosts
-        run: |
-          scp -r \
-            -i $SSH_KEY_PATH \
-            -o GlobalKnownHostsFile=$SSH_KNOWN_HOSTS_PATH \
-            public_html rrutherford4@erdos.dsm.fordham.edu:~
+
+      - name: Quarto Publish
+        uses: quarto-dev/quarto-actions/publish@v2
+        with:
+          render: false
+          target: quarto-pub
+          QUARTO_PUB_AUTH_TOKEN: ${{ secrets.QUARTO_PUB_TOKEN }}
