@@ -515,18 +515,19 @@ Wikipedia links / rabbit hole:
 
 ### Content
 
-- Runtime Analysis (Big O Notation)
-- BST Performance
+- [DSA Interview Advice](https://www.reddit.com/r/learnprogramming/comments/1gpt0fz/insights_from_an_exgoogler_who_has_taught_1000s/)
+- [Algorithmic Complexity](https://docs.google.com/presentation/d/1RXmVWwuUUTQO4djRnEob10vBjlzf7iA5/edit?usp=sharing&ouid=115990634876478916795&rtpof=true&sd=true)
+- [B Trees](https://docs.google.com/presentation/d/1oGZO-fksLe4V-NZiUsAYJGpPE7KNxmggP4QfxDNgZzU/edit?usp=sharing)
+- [Knuth - BST and Tree Traversal annotations](https://drive.google.com/file/d/1DG-ClEU3M2ElCen880r0XDWCICkLT0OJ/view?usp=sharing)
 
 ### Lab / Project
 
 ### Due
 
-#### Today
-
 #### Next Session / Upcoming
 
 - [Project Part 2 - due 11/15](https://github.com/CISC2200-Fall-24-Fordham/Proj-2)
+- [Lab 6: Binary Trees - due 11/22]
 
 ## 11/18
 
@@ -542,6 +543,8 @@ Wikipedia links / rabbit hole:
 
 #### Next Session / Upcoming
 
+- [Lab 6: Binary Trees - due 11/22]
+
 ## 11/20
 
 ### Content
@@ -555,6 +558,8 @@ Wikipedia links / rabbit hole:
 #### Today
 
 #### Next Session / Upcoming
+
+- [Lab 6: Binary Trees - due 11/22]
 
 ## 11/25
 
