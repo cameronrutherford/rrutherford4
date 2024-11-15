@@ -353,7 +353,7 @@ If anything is marked as due on a given day, it is due at 11:59pm EST that day u
 ### Content
 
 - Quiz 1 and Quiz 2 review
-- Project Part 2 - due 11/15
+- Project Part 2 - due 11/22
 - DLL and Array Review
 - Quiz 3 review
   - [Quiz 3: 10/21 - study guide](https://docs.google.com/document/d/14wCUimC5R58kmr0A43jllbdcgqITEk18t9wb5H93zUw/edit?usp=sharing)
@@ -369,7 +369,7 @@ If anything is marked as due on a given day, it is due at 11:59pm EST that day u
 #### Next Session / Upcoming
 
 - [Quiz 3: 10/21 - study guide](https://docs.google.com/document/d/14wCUimC5R58kmr0A43jllbdcgqITEk18t9wb5H93zUw/edit?usp=sharing)
-- [Project Part 2 - due 11/15](https://github.com/CISC2200-Fall-24-Fordham/Proj-2)
+- [Project Part 2 - due 11/22](https://github.com/CISC2200-Fall-24-Fordham/Proj-2)
 
 ## 10/21
 
@@ -383,7 +383,7 @@ If anything is marked as due on a given day, it is due at 11:59pm EST that day u
 
 #### Next Session / Upcoming
 
-- [Project Part 2 - due 11/15](https://github.com/CISC2200-Fall-24-Fordham/Proj-2)
+- [Project Part 2 - due 11/22](https://github.com/CISC2200-Fall-24-Fordham/Proj-2)
 
 ## 10/23
 
@@ -405,7 +405,7 @@ If anything is marked as due on a given day, it is due at 11:59pm EST that day u
 
 #### Next Session / Upcoming
 
-- [Project Part 2 - due 11/15](https://github.com/CISC2200-Fall-24-Fordham/Proj-2)
+- [Project Part 2 - due 11/22](https://github.com/CISC2200-Fall-24-Fordham/Proj-2)
 
 ## 10/28
 
@@ -415,7 +415,7 @@ If anything is marked as due on a given day, it is due at 11:59pm EST that day u
 
 #### Next Session / Upcoming
 
-- [Project Part 2 - due 11/15](https://github.com/CISC2200-Fall-24-Fordham/Proj-2)
+- [Project Part 2 - due 11/22](https://github.com/CISC2200-Fall-24-Fordham/Proj-2)
 - 10/29: Mid-semester evaluations due
 
 ## 10/30
@@ -440,7 +440,7 @@ If anything is marked as due on a given day, it is due at 11:59pm EST that day u
 
 - [Lab 5: Sorted Lists - due 11/06](https://github.com/CISC2200-Fall-24-Fordham/Lab5)
 - 11/04: Round 2 attendance reports due
-- [Project Part 2 - due 11/15](https://github.com/CISC2200-Fall-24-Fordham/Proj-2)
+- [Project Part 2 - due 11/22](https://github.com/CISC2200-Fall-24-Fordham/Proj-2)
 
 ## 11/04
 
@@ -469,7 +469,7 @@ If anything is marked as due on a given day, it is due at 11:59pm EST that day u
 
 - 11/05: Vote!!!
 - [Lab 5: Sorted Lists - due 11/06](https://github.com/CISC2200-Fall-24-Fordham/Lab5)
-- [Project Part 2 - due 11/15](https://github.com/CISC2200-Fall-24-Fordham/Proj-2)
+- [Project Part 2 - due 11/22](https://github.com/CISC2200-Fall-24-Fordham/Proj-2)
 
 ## 11/06
 
@@ -491,7 +491,7 @@ Wikipedia links / rabbit hole:
 
 #### Next Session / Upcoming
 
-- [Project Part 2 - due 11/15](https://github.com/CISC2200-Fall-24-Fordham/Proj-2)
+- [Project Part 2 - due 11/22](https://github.com/CISC2200-Fall-24-Fordham/Proj-2)
 
 ## 11/11
 
@@ -509,7 +509,7 @@ Wikipedia links / rabbit hole:
 
 #### Next Session / Upcoming
 
-- [Project Part 2 - due 11/15](https://github.com/CISC2200-Fall-24-Fordham/Proj-2)
+- [Project Part 2 - due 11/22](https://github.com/CISC2200-Fall-24-Fordham/Proj-2)
 
 ## 11/13
 
@@ -526,7 +526,7 @@ Wikipedia links / rabbit hole:
 
 #### Next Session / Upcoming
 
-- [Project Part 2 - due 11/15](https://github.com/CISC2200-Fall-24-Fordham/Proj-2)
+- [Project Part 2 - due 11/22](https://github.com/CISC2200-Fall-24-Fordham/Proj-2)
 - [Lab 6: Binary Trees - due 11/22](https://github.com/CISC2200-Fall-24-Fordham/Lab-6)
 
 ## 11/18
@@ -544,6 +544,7 @@ Wikipedia links / rabbit hole:
 #### Next Session / Upcoming
 
 - [Lab 6: Binary Trees - due 11/22](https://github.com/CISC2200-Fall-24-Fordham/Lab-6)
+- [Project Part 2 - due 11/22](https://github.com/CISC2200-Fall-24-Fordham/Proj-2)
 
 ## 11/20
 
@@ -560,6 +561,7 @@ Wikipedia links / rabbit hole:
 #### Next Session / Upcoming
 
 - [Lab 6: Binary Trees - due 11/22](https://github.com/CISC2200-Fall-24-Fordham/Lab-6)
+- [Project Part 2 - due 11/22](https://github.com/CISC2200-Fall-24-Fordham/Proj-2)
 
 ## 11/25
 
