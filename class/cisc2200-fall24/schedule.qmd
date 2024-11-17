@@ -533,18 +533,18 @@ Wikipedia links / rabbit hole:
 
 ### Content
 
-- Hashing
+- [Hashing Slides](https://docs.google.com/presentation/d/1yXotYwiC6Y5m75qw6rYMjAIfQw5EtTjQ/edit?usp=sharing&ouid=115990634876478916795&rtpof=true&sd=true)
+- [Annotated Knuth: Hashing](https://drive.google.com/file/d/1cIi_29KfqC8StOb4TUt3T2CxuJKemDlp/view?usp=sharing)
 
 ### Lab / Project
 
 ### Due
 
-#### Today
-
 #### Next Session / Upcoming
 
 - [Lab 6: Binary Trees - due 11/22](https://github.com/CISC2200-Fall-24-Fordham/Lab-6)
 - [Project Part 2 - due 11/22](https://github.com/CISC2200-Fall-24-Fordham/Proj-2)
+- [Lab 7: Hashing - due 12/02](https://github.com/CISC2200-Fall-24-Fordham/Lab-7)
 
 ## 11/20
 
@@ -556,12 +556,11 @@ Wikipedia links / rabbit hole:
 
 ### Due
 
-#### Today
-
 #### Next Session / Upcoming
 
 - [Lab 6: Binary Trees - due 11/22](https://github.com/CISC2200-Fall-24-Fordham/Lab-6)
 - [Project Part 2 - due 11/22](https://github.com/CISC2200-Fall-24-Fordham/Proj-2)
+- [Lab 7: Hashing - due 12/02](https://github.com/CISC2200-Fall-24-Fordham/Lab-7)
 
 ## 11/25
 
@@ -573,9 +572,9 @@ Wikipedia links / rabbit hole:
 
 ### Due
 
-#### Today
-
 #### Next Session / Upcoming
+
+- [Lab 7: Hashing - due 12/02](https://github.com/CISC2200-Fall-24-Fordham/Lab-7)
 
 ## **THANKSGIVING**
 
@@ -591,10 +590,9 @@ Wikipedia links / rabbit hole:
 
 #### Today
 
+- [Lab 7: Hashing - due 12/02](https://github.com/CISC2200-Fall-24-Fordham/Lab-7)
 - Last day for designating a course Pass/Fail
 - Last day to withdraw from a course without incurring a WF
-
-#### Next Session / Upcoming
 
 ## 12/04
 
@@ -603,14 +601,6 @@ Wikipedia links / rabbit hole:
 - Final Review Part I
 - Extra content Part I
 
-### Lab / Project
-
-### Due
-
-#### Today
-
-#### Next Session / Upcoming
-
 ## 12/09
 
 ### Content
@@ -618,11 +608,7 @@ Wikipedia links / rabbit hole:
 - Final Review Part II
 - Extra content Part II
 
-### Lab / Project
-
 ### Due
-
-#### Today
 
 #### Next Session / Upcoming
 
