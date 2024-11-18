@@ -533,6 +533,7 @@ Wikipedia links / rabbit hole:
 
 ### Content
 
+- [RECORDED LECTURE 1](https://fordham.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=8dfd8a6d-fa3c-4001-9075-b22b01751106)
 - [Hashing Slides](https://docs.google.com/presentation/d/1yXotYwiC6Y5m75qw6rYMjAIfQw5EtTjQ/edit?usp=sharing&ouid=115990634876478916795&rtpof=true&sd=true)
 - [Annotated Knuth: Hashing](https://drive.google.com/file/d/1cIi_29KfqC8StOb4TUt3T2CxuJKemDlp/view?usp=sharing)
 
