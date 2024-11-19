@@ -27,6 +27,7 @@ jobs:
           echo "$SSH_PRIVATE_KEY" > ../private.key
           sudo chmod 600 ../private.key
           echo "$SSH_KNOWN_HOSTS" > ../known_hosts
+          sudo chmod 600 ../known_hosts
       - name: Deploy site
         env:
           SSH_KEY_PATH: ${{ github.workspace }}/../private.key
