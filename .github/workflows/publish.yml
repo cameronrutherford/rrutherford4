@@ -1,42 +1,58 @@
 ---
 # yamllint disable rule:line-length
-  name: Documentation Publish
-  "on":
-    workflow_dispatch:
-    push:
-      branches:
-        - main
-  jobs:
-    publish-docs:
-      runs-on: ubuntu-latest
-      container:
-        image: ghcr.io/cameronrutherford/quarto-ci
-      permissions:
-        contents: write
-      steps:
-        - name: Check out repository
-          uses: actions/checkout@v4
-        - name: Quarto Render
-          run: quarto render
-        - name: Setup SSH keys
-          env:
-            SSH_PRIVATE_KEY: ${{ secrets.SSH_PRIVATE_KEY }}
-            SSH_KNOWN_HOSTS: ${{ secrets.SSH_KNOWN_HOSTS }}
-          run: |
-            mkdir -p ~/.ssh
-            echo "$SSH_PRIVATE_KEY" > ../private.key
-            sudo chmod 600 ../private.key
-            echo "$SSH_KNOWN_HOSTS" > ../known_hosts
-        - name: Deploy site
-          env:
-            SSH_KEY_PATH: ${{ github.workspace }}/../private.key
-            SSH_KNOWN_HOSTS_PATH: ${{ github.workspace }}/../known_hosts
-          run: |
-            scp -r \
-              -i $SSH_KEY_PATH \
-              -o GlobalKnownHostsFile=$SSH_KNOWN_HOSTS_PATH \
-              public_html rrutherford4@erdos.dsm.fordham.edu:~
-            ssh \
-              -i $SSH_KNOWN_HOSTS_PATH \
-              rrutherford4@erdos.dsm.fordham.edu \
-              chmod -R 644 ~/public_html
+name: Documentation Publish
+"on":
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+jobs:
+  publish-docs:
+    runs-on: ubuntu-latest
+    container:
+      image: ghcr.io/cameronrutherford/quarto-ci
+    permissions:
+      contents: write
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+      - name: Quarto Render
+        run: quarto render
+      - name: Setup SSH keys
+        env:
+          SSH_PRIVATE_KEY: ${{ secrets.SSH_PRIVATE_KEY }}
+          SSH_KNOWN_HOSTS: ${{ secrets.SSH_KNOWN_HOSTS }}
+        run: |
+          mkdir -p ~/.ssh
+          echo "$SSH_PRIVATE_KEY" > ../private.key
+          sudo chmod 600 ../private.key
+          echo "$SSH_KNOWN_HOSTS" > ../known_hosts
+      - name: Deploy site
+        env:
+          SSH_KEY_PATH: ${{ github.workspace }}/../private.key
+          SSH_KNOWN_HOSTS_PATH: ${{ github.workspace }}/../known_hosts
+        run: |
+          scp -r \
+            -i $SSH_KEY_PATH \
+            -o GlobalKnownHostsFile=$SSH_KNOWN_HOSTS_PATH \
+            public_html rrutherford4@erdos.dsm.fordham.edu:~
+      - name: Fix Permissions on files
+        env:
+          SSH_KEY_PATH: ${{ github.workspace }}/../private.key
+          SSH_KNOWN_HOSTS_PATH: ${{ github.workspace }}/../known_hosts
+        run: |
+          ssh \
+            -i $SSH_KNOWN_HOSTS_PATH \
+            -o UserKnownHostsFile=$SSH_KNOWN_HOSTS_PATH \
+            rrutherford4@erdos.dsm.fordham.edu \
+            find public_html -type f '!' -perm -o=r -exec chmod o+r '{}' ';'
+      - name: Fix Permissions on dirs
+        env:
+          SSH_KEY_PATH: ${{ github.workspace }}/../private.key
+          SSH_KNOWN_HOSTS_PATH: ${{ github.workspace }}/../known_hosts
+        run: |
+          ssh \
+            -i $SSH_KNOWN_HOSTS_PATH \
+            -o UserKnownHostsFile=$SSH_KNOWN_HOSTS_PATH \
+            rrutherford4@erdos.dsm.fordham.edu \
+            find public_html -type d '!' -perm -o=rx -exec chmod o+rx '{}' ';'
