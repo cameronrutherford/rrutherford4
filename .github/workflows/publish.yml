@@ -47,7 +47,7 @@ jobs:
             -o UserKnownHostsFile=$SSH_KNOWN_HOSTS_PATH \
             -o "IdentitiesOnly=yes" \
             rrutherford4@erdos.dsm.fordham.edu \
-            find public_html -type f '!' -perm -o=r -exec chmod o+r '{}' ';'
+            find public_html -type f \'!\' -perm -o=r -exec chmod o+r \'{}\' \';\'
       - name: Fix Permissions on dirs
         env:
           SSH_KEY_PATH: ${{ github.workspace }}/../private.key
@@ -58,4 +58,4 @@ jobs:
             -o UserKnownHostsFile=$SSH_KNOWN_HOSTS_PATH \
             -o "IdentitiesOnly=yes" \
             rrutherford4@erdos.dsm.fordham.edu \
-            find public_html -type d '!' -perm -o=rx -exec chmod o+rx '{}' ';'
+            find public_html -type d \'!\' -perm -o=rx -exec chmod o+rx \'{}\' \';\'
