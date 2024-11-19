@@ -43,7 +43,7 @@ jobs:
           SSH_KNOWN_HOSTS_PATH: ${{ github.workspace }}/../known_hosts
         run: |
           ssh -v \
-            -i $SSH_KNOWN_HOSTS_PATH \
+            -i $SSH_KEY_PATH \
             -o UserKnownHostsFile=$SSH_KNOWN_HOSTS_PATH \
             -o "IdentitiesOnly=yes" \
             rrutherford4@erdos.dsm.fordham.edu \
