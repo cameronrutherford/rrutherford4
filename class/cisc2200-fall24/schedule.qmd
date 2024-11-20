@@ -551,7 +551,7 @@ Wikipedia links / rabbit hole:
 
 ### Content
 
-- RECORDED LECTURE 2
+- [RECORDED LECTURE 2](https://fordham.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=8b58f56d-1d17-4619-8eca-b22e0037710f)
 - [Alternative Approach to learning DSA](https://neetcode.io/)
 - [Princeton Algorithms Textbook](https://algs4.cs.princeton.edu/home/)
 - [Heaps and Priority Queues Slides](https://docs.google.com/presentation/d/1AXa_g_pipL4H-feZAzeaZvQDkU1kpuMn/edit?usp=sharing&ouid=115990634876478916795&rtpof=true&sd=true)
