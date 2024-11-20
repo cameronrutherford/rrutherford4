@@ -551,7 +551,12 @@ Wikipedia links / rabbit hole:
 
 ### Content
 
-- Heaps and Priority Queues
+- RECORDED LECTURE 2
+- [Alternative Approach to learning DSA](https://neetcode.io/)
+- [Princeton Algorithms Textbook](https://algs4.cs.princeton.edu/home/)
+- [Heaps and Priority Queues Slides](https://docs.google.com/presentation/d/1AXa_g_pipL4H-feZAzeaZvQDkU1kpuMn/edit?usp=sharing&ouid=115990634876478916795&rtpof=true&sd=true)
+  - [Applications of Priority Queues](https://www.geeksforgeeks.org/applications-priority-queue/)
+
 
 ### Lab / Project
 
@@ -562,6 +567,7 @@ Wikipedia links / rabbit hole:
 - [Lab 6: Binary Trees - due 11/22](https://github.com/CISC2200-Fall-24-Fordham/Lab-6)
 - [Project Part 2 - due 11/22](https://github.com/CISC2200-Fall-24-Fordham/Proj-2)
 - [Lab 7: Hashing - due 12/02](https://github.com/CISC2200-Fall-24-Fordham/Lab-7)
+- [Take Home Quiz 4 - due 12/04](https://docs.google.com/document/d/1Y9tmvtI-F92lUtUfFm0C3L1Kvnf5blBVl9Ro5kRu7aY/edit?usp=sharing)
 
 ## 11/25
 
@@ -576,6 +582,7 @@ Wikipedia links / rabbit hole:
 #### Next Session / Upcoming
 
 - [Lab 7: Hashing - due 12/02](https://github.com/CISC2200-Fall-24-Fordham/Lab-7)
+- [Take Home Quiz 4 - due 12/04](https://docs.google.com/document/d/1Y9tmvtI-F92lUtUfFm0C3L1Kvnf5blBVl9Ro5kRu7aY/edit?usp=sharing)
 
 ## **THANKSGIVING**
 
@@ -595,12 +602,22 @@ Wikipedia links / rabbit hole:
 - Last day for designating a course Pass/Fail
 - Last day to withdraw from a course without incurring a WF
 
+#### Next Session / Upcoming
+
+- [Take Home Quiz 4 - due 12/04](https://docs.google.com/document/d/1Y9tmvtI-F92lUtUfFm0C3L1Kvnf5blBVl9Ro5kRu7aY/edit?usp=sharing)
+
 ## 12/04
 
 ### Content
 
 - Final Review Part I
 - Extra content Part I
+
+### Due
+
+#### Today
+
+- [Take Home Quiz 4 - due 12/04](https://docs.google.com/document/d/1Y9tmvtI-F92lUtUfFm0C3L1Kvnf5blBVl9Ro5kRu7aY/edit?usp=sharing)
 
 ## 12/09
 
