@@ -573,7 +573,7 @@ Wikipedia links / rabbit hole:
 
 ### Content
 
-- [Tree / Graph Traversals](https://docs.google.com/presentation/d/11H6GEPaYnBfCwpeYsiy_1TBlZo3mIlnG/edit?usp=sharing&ouid=115990634876478916795&rtpof=true&sd=true)
+- [Tree / Graph Traversals](https://docs.google.com/presentation/d/1I7dnepAfjwGP4q_ZNbwsfmN9EmI7tQ59_ETd5S3YfGY/edit?usp=sharing)
 - [Tree / Graph Representations](https://docs.google.com/presentation/d/1ukPy2Xq6AQYDJ-9ckcust-uw3y-BZbOW/edit?usp=sharing&ouid=115990634876478916795&rtpof=true&sd=true)
 
 From S&W:
