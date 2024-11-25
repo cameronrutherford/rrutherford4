@@ -577,8 +577,9 @@ Wikipedia links / rabbit hole:
 - [Tree / Graph Representations](https://docs.google.com/presentation/d/1ukPy2Xq6AQYDJ-9ckcust-uw3y-BZbOW/edit?usp=sharing&ouid=115990634876478916795&rtpof=true&sd=true)
 
 From S&W:
-  - [Undirected Graphs](https://algs4.cs.princeton.edu/41graph/)
-  - [Directed Graphs](https://algs4.cs.princeton.edu/42digraph/)
+
+- [Undirected Graphs](https://algs4.cs.princeton.edu/41graph/)
+- [Directed Graphs](https://algs4.cs.princeton.edu/42digraph/)
 
 ### Lab / Project
 
