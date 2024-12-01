@@ -10,7 +10,7 @@ jobs:
   publish-docs:
     runs-on: ubuntu-latest
     container:
-      image: ghcr.io/cameronrutherford/quarto-ci
+      image: ghcr.io/cameronrutherford/quarto-ci:latest
     permissions:
       contents: write
     steps:

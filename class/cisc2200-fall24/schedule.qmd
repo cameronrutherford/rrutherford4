@@ -596,9 +596,28 @@ From S&W:
 
 ### Content
 
-- Graph Algorithms Part II
+- [Final Review Slides](https://docs.google.com/presentation/d/1P0yLEKqUMNo2anOKfO0-LORTgygih3O8/edit?usp=sharing&ouid=115990634876478916795&rtpof=true&sd=true)
+- [Final Review Guide](https://docs.google.com/document/d/1S4dIF9U_ki8d1PW2VcpuoYaWuUHyY5Kixf_-lVi6ZU4/edit?usp=sharing)
+- [LeetCode Daily](https://leetcode.com/problemset/)
+- [Advent of Code](https://adventofcode.com/)
+- [Cameron's Advent of Code repo](https://github.com/cameronrutherford/2024-Advent-Of-Code)
 
-### Lab / Project
+Extra Topics:
+
+- Go through SC25 conference schedule
+- Topics of interest:
+  - Machine Learning
+    - [Large Language Models explained briefly](https://www.youtube.com/watch?v=LPZh9BOjkQs)
+    - [But what is a neural network? | Deep learning chapter 1](https://youtu.be/aircAruvnKk?si=1keloclaY3VB3KBR)
+  - Robotics
+    - [The Fastest Maze-Solving Competition On Earth](https://youtu.be/ZMQbHMgK2rw?si=mnFPvxZRqRmfPOdh)
+    - [What is an Embedded System? | Concepts](https://www.youtube.com/watch?v=oPn_adlC1Q0)
+  - Video games
+    - [Unreal Engine 5 Beginner Tutorial 2024: Introduction](https://www.youtube.com/watch?v=L9qixi858Ag)
+    - [I made a multiplayer game from scratch because no one is hiring junior devs.](https://www.youtube.com/watch?v=LBbVEqTPlzI)
+  - Secure Code
+    - [coding in c until my program is unsafe](https://www.youtube.com/watch?v=oTEiQx88B2U)
+    - [how NASA writes space-proof code](https://www.youtube.com/watch?v=GWYhtksrmhE)
 
 ### Due
 
@@ -616,8 +635,10 @@ From S&W:
 
 ### Content
 
-- Final Review Part I
-- Extra content Part I
+- [Final Review Slides](https://docs.google.com/presentation/d/1P0yLEKqUMNo2anOKfO0-LORTgygih3O8/edit?usp=sharing&ouid=115990634876478916795&rtpof=true&sd=true)
+- [Final Review Guide](https://docs.google.com/document/d/1S4dIF9U_ki8d1PW2VcpuoYaWuUHyY5Kixf_-lVi6ZU4/edit?usp=sharing)
+- [LeetCode Daily](https://leetcode.com/problemset/)
+- [Advent of Code](ihttps://adventofcode.com/)
 
 ### Due
 
@@ -629,8 +650,10 @@ From S&W:
 
 ### Content
 
-- Final Review Part II
-- Extra content Part II
+- [Final Review Slides](https://docs.google.com/presentation/d/1P0yLEKqUMNo2anOKfO0-LORTgygih3O8/edit?usp=sharing&ouid=115990634876478916795&rtpof=true&sd=true)
+- [Final Review Guide](https://docs.google.com/document/d/1S4dIF9U_ki8d1PW2VcpuoYaWuUHyY5Kixf_-lVi6ZU4/edit?usp=sharing)
+- [LeetCode Daily](https://leetcode.com/problemset/)
+- [Advent of Code](ihttps://adventofcode.com/)
 
 ### Due
 
@@ -644,4 +667,5 @@ From S&W:
 
 ## **FINAL EXAMS!**
 
+- [Final Exam Schedule](https://docs.google.com/spreadsheets/d/1C4xzq2Am7FYK9b0c9hHp6QQNPuzGz5ztxsJCuWd2zik/edit?gid=419374649#gid=419374649)
 - Your grade will be posted within three days of the final exam
