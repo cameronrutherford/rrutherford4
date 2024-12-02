@@ -606,10 +606,19 @@ Extra Topics:
 
 - Go through SC25 conference schedule
 - Topics of interest:
+  - How do I know when to apply a given data structure?
+    - Practice LeetCode / NeatCode / Advent-of-Code
+    - [Making an Algorithm Faster](https://www.youtube.com/watch?v=Rxd3W1wnlEc&ab_channel=NeetCodeIO) - 1606240%!!
+    - [Custom BigInt.h](https://www.reddit.com/r/cpp_questions/comments/1h4023w/h_file_library/)
   - Machine Learning
+    - [Kaggle](https://www.kaggle.com/)
+    - [Supervised vs. Unsupervised vs. Semi-supervised vs. Reinforcement Learning](https://blogs.nvidia.com/blog/supervised-unsupervised-learning/)
     - [Large Language Models explained briefly](https://www.youtube.com/watch?v=LPZh9BOjkQs)
     - [But what is a neural network? | Deep learning chapter 1](https://youtu.be/aircAruvnKk?si=1keloclaY3VB3KBR)
+    - [AI Learns to Rocket Jump](https://youtu.be/3kf_Hu14LOQ?si=mYlmIUEvAyD5gavH)
   - Robotics
+    - My own video of a bomb defusal game
+    - [Raspberry Pi Projects](https://projects.raspberrypi.org/en#projects)
     - [The Fastest Maze-Solving Competition On Earth](https://youtu.be/ZMQbHMgK2rw?si=mnFPvxZRqRmfPOdh)
     - [What is an Embedded System? | Concepts](https://www.youtube.com/watch?v=oPn_adlC1Q0)
   - Video games
