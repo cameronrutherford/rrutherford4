@@ -596,7 +596,7 @@ From S&W:
 
 ### Content
 
-- [Final Review Slides](https://docs.google.com/presentation/d/1P0yLEKqUMNo2anOKfO0-LORTgygih3O8/edit?usp=sharing&ouid=115990634876478916795&rtpof=true&sd=true)
+- [Final Review Slides](https://docs.google.com/presentation/d/1Hqxmd3iEYRlh1WQX_s44HJDz8j_t7EUv88cNtXAkxHs/edit?usp=sharing)
 - [Final Review Guide](https://docs.google.com/document/d/1S4dIF9U_ki8d1PW2VcpuoYaWuUHyY5Kixf_-lVi6ZU4/edit?usp=sharing)
 - [LeetCode Daily](https://leetcode.com/problemset/)
 - [Advent of Code](https://adventofcode.com/)
