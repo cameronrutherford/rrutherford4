@@ -646,7 +646,8 @@ Extra Topics:
 - [Final Review Guide](https://docs.google.com/document/d/1S4dIF9U_ki8d1PW2VcpuoYaWuUHyY5Kixf_-lVi6ZU4/edit?usp=sharing)
 - Kahoot! - 5 pts extra credit to top 3
 - [Advent of Code](ihttps://adventofcode.com/) - 5pts extra credit
-- [Cameron's Advent of Code repo](https://github.com/cameronrutherford/2024-Advent-Of-Code)
+  - [Cameron's Advent of Code repo](https://github.com/cameronrutherford/2024-Advent-Of-Code)
+  - [Day 2: Red-Nosed Reports | Advent of Code 2024](https://www.youtube.com/watch?v=4NICD495QFE)
 
 Extra Content:
 
