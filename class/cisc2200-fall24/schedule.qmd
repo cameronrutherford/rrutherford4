@@ -598,13 +598,11 @@ From S&W:
 
 - [Final Review Slides](https://docs.google.com/presentation/d/1Hqxmd3iEYRlh1WQX_s44HJDz8j_t7EUv88cNtXAkxHs/edit?usp=sharing)
 - [Final Review Guide](https://docs.google.com/document/d/1S4dIF9U_ki8d1PW2VcpuoYaWuUHyY5Kixf_-lVi6ZU4/edit?usp=sharing)
-- [LeetCode Daily](https://leetcode.com/problemset/)
-- [Advent of Code](https://adventofcode.com/)
+- [Advent of Code](https://adventofcode.com/) - 5 pts extra credit
 - [Cameron's Advent of Code repo](https://github.com/cameronrutherford/2024-Advent-Of-Code)
 
 Extra Topics:
 
-- Go through SC25 conference schedule
 - Topics of interest:
   - How do I know when to apply a given data structure?
     - Practice LeetCode / NeatCode / Advent-of-Code
@@ -646,8 +644,24 @@ Extra Topics:
 
 - [Final Review Slides](https://docs.google.com/presentation/d/1P0yLEKqUMNo2anOKfO0-LORTgygih3O8/edit?usp=sharing&ouid=115990634876478916795&rtpof=true&sd=true)
 - [Final Review Guide](https://docs.google.com/document/d/1S4dIF9U_ki8d1PW2VcpuoYaWuUHyY5Kixf_-lVi6ZU4/edit?usp=sharing)
-- [LeetCode Daily](https://leetcode.com/problemset/)
-- [Advent of Code](ihttps://adventofcode.com/)
+- Kahoot! - 5 pts extra credit to top 3
+- [Advent of Code](ihttps://adventofcode.com/) - 5pts extra credit
+- [Cameron's Advent of Code repo](https://github.com/cameronrutherford/2024-Advent-Of-Code)
+
+Extra Content:
+
+- Go through (my) SC25 conference schedule
+- Climate Science
+  - [Machine learning-based surrogate models for fast impact assessment of a new building on urban local microclimate at design stage](https://doi.org/10.1016/j.buildenv.2024.112142) - Dec 1 2024
+  - [POSTER - Statistical Surrogate Models for Estimating Probability of High-Consequence Climate Change](https://www.osti.gov/servlets/purl/1106521) - 2011
+- Medical Applications
+  - [A review and comparative study of cancer detection using machine learning: SBERT and SimCSE application](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-023-05235-x) - 2023
+  - [Breast Cancer Detection and Prevention Using Machine Learning](https://pmc.ncbi.nlm.nih.gov/articles/PMC10572157/) - 2023
+- Quantum Computing
+  - [EQC : Ensembled Quantum Computing for Variational Quantum Algorithms](https://arxiv.org/abs/2111.14940) - 2021 by a close friend
+  - [NISQ Wikipedia](https://en.wikipedia.org/wiki/Noisy_intermediate-scale_quantum_era#:~:text=The%20current%20state%20of%20quantum,enough%20to%20achieve%20quantum%20advantage.)
+  - [IMB Q Learning](https://learning.quantum.ibm.com/)
+
 
 ### Due
 
