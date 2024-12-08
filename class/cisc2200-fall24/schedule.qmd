@@ -644,7 +644,7 @@ Extra Topics:
 
 - [Final Review Slides](https://docs.google.com/presentation/d/1P0yLEKqUMNo2anOKfO0-LORTgygih3O8/edit?usp=sharing&ouid=115990634876478916795&rtpof=true&sd=true)
 - [Final Review Guide](https://docs.google.com/document/d/1S4dIF9U_ki8d1PW2VcpuoYaWuUHyY5Kixf_-lVi6ZU4/edit?usp=sharing)
-- Kahoot! - 5 pts extra credit to top 3
+- Kahoot! - 5 pts extra credit to top 5
 - [Advent of Code](ihttps://adventofcode.com/) - 5pts extra credit
   - [Cameron's Advent of Code repo](https://github.com/cameronrutherford/2024-Advent-Of-Code)
   - [Day 2: Red-Nosed Reports | Advent of Code 2024](https://www.youtube.com/watch?v=4NICD495QFE)
@@ -674,10 +674,13 @@ Extra Content:
 
 ### Content
 
-- [Final Review Slides](https://docs.google.com/presentation/d/1P0yLEKqUMNo2anOKfO0-LORTgygih3O8/edit?usp=sharing&ouid=115990634876478916795&rtpof=true&sd=true)
+- [Final Review Slides - II](https://docs.google.com/presentation/d/1iGCf0LoRa5kHZRIF_ZsM3UUV1flRjlaTGn9LhXXUMYg/edit?usp=sharing)
+- Kahoot! - 5pts extra credit for top 5
+- Pizza!
 - [Final Review Guide](https://docs.google.com/document/d/1S4dIF9U_ki8d1PW2VcpuoYaWuUHyY5Kixf_-lVi6ZU4/edit?usp=sharing)
-- [LeetCode Daily](https://leetcode.com/problemset/)
-- [Advent of Code](ihttps://adventofcode.com/)
+- [Advent of Code](https://adventofcode.com/)
+- [Cameron's Advent of Code repo](https://github.com/cameronrutherford/2024-Advent-Of-Code)
+- Jackbox Games!
 
 ### Due
 
