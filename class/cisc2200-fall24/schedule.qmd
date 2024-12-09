@@ -676,6 +676,7 @@ Extra Content:
 
 - [Final Review Slides - II](https://docs.google.com/presentation/d/1iGCf0LoRa5kHZRIF_ZsM3UUV1flRjlaTGn9LhXXUMYg/edit?usp=sharing)
 - Kahoot! - 5pts extra credit for top 5
+  - [Kahoot Solutions](https://drive.google.com/file/d/1KKJHnT_8XO-gL-hmUvLgjbKmrkeevi6n/view?usp=sharing)
 - Pizza!
 - [Final Review Guide](https://docs.google.com/document/d/1S4dIF9U_ki8d1PW2VcpuoYaWuUHyY5Kixf_-lVi6ZU4/edit?usp=sharing)
 - [Advent of Code](https://adventofcode.com/)
